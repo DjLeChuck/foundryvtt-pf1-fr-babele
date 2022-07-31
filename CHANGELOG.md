@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 0.0.1 - 2022-07-31
+
 ### Added
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/v1.0.0...HEAD
+[0.0.1]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.0.0...HEAD
