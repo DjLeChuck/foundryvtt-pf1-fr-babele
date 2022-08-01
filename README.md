@@ -16,6 +16,28 @@ Grâce à cela, les automatismes de base du système fonctionnent directement.
 Pour installer le module, il vous suffit de l'ajouter à Foundry en utilisant le lien de son manifest :
 `https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json`
 
+## État d'avancement
+
+Pour chaque fichier, nombre de termes existants dans le compendium et nombre de termes déjà traduits.
+
+| Fichier                  | Nb. termes | Nb. termes traduis |
+|--------------------------|------------|--------------------|
+| `pf1.armors-and-shields` | 64         | 50                 |
+| `pf1.class-abilities`    | 4 358      | 0                  |
+| `pf1.classes`            | 51         | 50                 |
+| `pf1.commonbuffs`        | 26         | 0                  |
+| `pf1.conditions`         | 35         | 0                  |
+| `pf1.feats`              | 177        | 175                |
+| `pf1.items`              | 736        | 157                |
+| `pf1.monster-templates`  | 189        | 0                  |
+| `pf1.mythicpaths`        | 6          | 0                  |
+| `pf1.races`              | 79         | 37                 |
+| `pf1.racialhd`           | 13         | 0                  |
+| `pf1.skills`             | 26         | 26                 |
+| `pf1.spells`             | 2 944      | 2 944              |
+| `pf1.ultimate-equipment` | 227        | 0                  |
+| `pf1.weapons-and-ammo`   | 493        | 230                |
+
 ## Comment contribuer ?
 
 Pour le moment, le module n'est composé que des traductions issues du module
