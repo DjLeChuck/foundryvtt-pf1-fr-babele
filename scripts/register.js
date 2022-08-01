@@ -15,7 +15,7 @@ Hooks.on('init', () => {
     },
   });
 
-  if (game.settings.get('pf1FrBabele', 'autoRegisterBabel')) {
+  if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {
     autoRegisterBabel();
   }
 });
