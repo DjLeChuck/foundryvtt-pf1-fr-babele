@@ -30,7 +30,7 @@ Pour chaque fichier, nombre de termes existants dans le compendium et nombre de 
 | `pf1.feats`              | 177        | 175                |
 | `pf1.items`              | 736        | 157                |
 | `pf1.monster-templates`  | 189        | 0                  |
-| `pf1.mythicpaths`        | 6          | 0                  |
+| `pf1.mythicpaths`        | 6          | 6                  |
 | `pf1.races`              | 79         | 37                 |
 | `pf1.racialhd`           | 13         | 0                  |
 | `pf1.skills`             | 26         | 26                 |
