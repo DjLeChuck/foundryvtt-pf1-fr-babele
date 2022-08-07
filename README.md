@@ -20,34 +20,53 @@ Pour installer le module, il vous suffit de l'ajouter à Foundry en utilisant le
 
 Pour chaque fichier, nombre de termes existants dans le compendium et nombre de termes déjà traduits.
 
-| Fichier                  | Nb. termes | Nb. termes traduis |
-|--------------------------|------------|--------------------|
-| `pf1.armors-and-shields` | 64         | 50                 |
-| `pf1.class-abilities`    | 4 358      | 0                  |
-| `pf1.classes`            | 51         | 50                 |
-| `pf1.commonbuffs`        | 26         | 0                  |
-| `pf1.conditions`         | 35         | 0                  |
-| `pf1.feats`              | 177        | 175                |
-| `pf1.items`              | 736        | 157                |
-| `pf1.monster-templates`  | 189        | 0                  |
-| `pf1.mythicpaths`        | 6          | 0                  |
-| `pf1.races`              | 79         | 37                 |
-| `pf1.racialhd`           | 13         | 0                  |
-| `pf1.skills`             | 26         | 26                 |
-| `pf1.spells`             | 2 944      | 2 944              |
-| `pf1.ultimate-equipment` | 227        | 0                  |
-| `pf1.weapons-and-ammo`   | 493        | 230                |
+| **Pack**                 | **Nb. termes** | **Nb. non traduits** | **Nb. traduits** |
+|--------------------------|----------------|----------------------|------------------|
+| `pf1.armors-and-shields` | 64             | 10                   | 54               |
+| `pf1.class-abilities`    | 4363           | 4304                 | 59               |
+| `pf1.classes`            | 51             | 7                    | 44               |
+| `pf1.commonbuffs`        | 26             | 6                    | 20               |
+| `pf1.conditions`         | 35             | 35                   | 0                |
+| `pf1.feats`              | 177            | 1                    | 176              |
+| `pf1.items`              | 736            | 588                  | 148              |
+| `pf1.monster-templates`  | 189            | 189                  | 0                |
+| `pf1.mythicpaths`        | 6              | 0                    | 6                |
+| `pf1.races`              | 79             | 60                   | 19               |
+| `pf1.racialhd`           | 13             | 13                   | 0                |
+| `pf1.skills`             | 26             | 3                    | 23               |
+| `pf1.spells`             | 2944           | 1267                 | 1677             |
+| `pf1.ultimate-equipment` | 227            | 227                  | 0                |
+| `pf1.weapons-and-ammo`   | 491            | 304                  | 187              |
 
 ## Comment contribuer ?
 
-Pour le moment, le module n'est composé que des traductions issues du module
+À la base, le module était composé uniquement des traductions issues du module
 [Pathfinder 1 - Improvements for French](https://foundryvtt.com/packages/pf1-fr) ce qui fait qu'il y a énormément
 d'entrées qui ne sont pas traduites car il n'en existe pas de référencées sur le
 wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/).
 
-Si vous souhaitez participer aux traductions, il vous faut pour cela faire les modifications dans les différents
-fichiers concernés, puis faire une [pull request](https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/pulls) afin
-d'absorber les modifications.
+À présent, afin de faciliter la gestion des traductions, une interface web a été mise en place afin de permettre à
+chacun de contribuer sans avoir à passer par GitHub et en disposant d'une interface de saisie et mise en forme bien plus
+agréable que les chiers JSON de base !
+
+Ce site n'est accessible qu'aux personnes présentes sur le Discord [La Fonderie](https://discord.com/invite/pPSDNJk)
+(une connexion via Discord est nécessaire pour accéder à l'interface de traduction et une vérification est faîtes sur
+l'appartenance au serveur).
+
+Quand on va traduire, la première chose à faire est de regarder s'il existe une traduction sur
+[le wiki FR de Pathfinder](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.MainPage.ashx). Si une traduction est
+disponible, alors on peut l'utiliser sans-souci.
+
+S'il n'y en a pas, alors on doit traduire soi-même en respectant le lore de Pathfinder, donc en vérifiant si des termes
+spécifiques sont à utiliser ou non. Pour ces cas-là, il y a un bouton qui permet de traduire automatiquement le texte
+de description anglais vers le français **afin d'avoir une base de travail seulement**. La traduction automatique ne
+doit en aucun cas être laissée sans vérification, car le rendu sera forcément approximatif et n'aura pas gardé les
+potentielles mises en forme existantes.
+
+### Ressources utiles :
+
+* [Glossaire VO / VF tenu par le wiki FR de Pathfinder](https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit#gid=660929381)
+* [Document de référence du système VO](https://www.d20pfsrd.com/)
 
 ## Remerciements
 
