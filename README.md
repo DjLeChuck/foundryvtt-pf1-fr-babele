@@ -45,9 +45,11 @@ Pour le moment, le module n'est composé que des traductions issues du module
 d'entrées qui ne sont pas traduites car il n'en existe pas de référencées sur le
 wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/).
 
-Si vous souhaitez participer aux traductions, il vous faut pour cela faire les modifications dans les différents
-fichiers concernés, puis faire une [pull request](https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/pulls) afin
-d'absorber les modifications.
+Si vous souhaitez participer aux traductions, une [interface](https://pf1-fr-babele.djlechuck.fr/) est disponible pour centraliser les efforts, 
+ainsi que simplifier la mise en forme. Notez qu'il est nécessaire d'avoir un compte Discord et d'être membre du [serveur Discord Foundry France](https://discord.com/invite/pPSDNJk).
+
+Vous pouvez aussi faire les modifications dans les différents fichiers concernés, 
+puis faire une [pull request](https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/pulls) afin d'absorber les modifications.
 
 ## Remerciements
 
