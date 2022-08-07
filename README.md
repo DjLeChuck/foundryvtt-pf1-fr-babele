@@ -67,6 +67,7 @@ potentielles mises en forme existantes.
 
 * [Glossaire VO / VF tenu par le wiki FR de Pathfinder](https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit#gid=660929381)
 * [Document de référence du système VO](https://www.d20pfsrd.com/)
+* [Archives of Nethys](https://www.aonprd.com/)
 
 ## Remerciements
 
