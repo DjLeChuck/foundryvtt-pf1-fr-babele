@@ -13,7 +13,10 @@ Grâce à cela, les automatismes de base du système fonctionnent directement.
 
 ## Installation
 
-Pour installer le module, il vous suffit de l'ajouter à Foundry en utilisant le lien de son manifest :
+Le module est installable directement depuis Foundry en recherchant son nom : `Pathfinder 1 - Traduction FR (Babele)`.
+Vous aurez alors la dernière version et profiterez des mises à jour automatiques.
+
+Sinon, il est possible l'ajouter en utilisant le lien de son manifest :
 `https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json`
 
 ## État d'avancement
