@@ -78,3 +78,13 @@ Merci à tous ceux qui ont travaillés sur le
 module [Pathfinder 1 - Improvements for French](https://foundryvtt.com/packages/pf1-fr)
 et, plus largement, sur le wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/) car sans eux ce module ne pourrait
 exister.
+
+## Notes légales
+
+Ce module pour FoundryVTT utilise des marques déposées et/ou des droits d’auteurs qui sont la propriété de Black Book
+Editions et de Paizo Publishing comme l’y autorisent les conditions d’utilisation de Black Book Editions.
+Ce module n’est pas publié par Black Book Editions / Paizo Publishing et n’a pas reçu son aval ni une quelconque
+approbation de sa part. Pour de plus amples informations sur Black Book Editions, consultez
+[www.black-book-editions.fr](www.black-book-editions.fr). Pour plus d’informations sur les conditions d’utilisation de
+la Paizo Community Use Policy, veuillez vous rendre sur
+[https://paizo.com/community/communityuse](https://paizo.com/community/communityuse).
