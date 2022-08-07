@@ -23,23 +23,25 @@ Sinon, il est possible l'ajouter en utilisant le lien de son manifest :
 
 Pour chaque fichier, nombre de termes existants dans le compendium et nombre de termes déjà traduits.
 
-| **Pack**                 | **Nb. termes** | **Nb. non traduits** | **Nb. traduits** |
-|--------------------------|----------------|----------------------|------------------|
-| `pf1.armors-and-shields` | 64             | 10                   | 54               |
-| `pf1.class-abilities`    | 4363           | 4304                 | 59               |
-| `pf1.classes`            | 51             | 7                    | 44               |
-| `pf1.commonbuffs`        | 26             | 6                    | 20               |
-| `pf1.conditions`         | 35             | 35                   | 0                |
-| `pf1.feats`              | 177            | 1                    | 176              |
-| `pf1.items`              | 736            | 588                  | 148              |
-| `pf1.monster-templates`  | 189            | 189                  | 0                |
-| `pf1.mythicpaths`        | 6              | 0                    | 6                |
-| `pf1.races`              | 79             | 60                   | 19               |
-| `pf1.racialhd`           | 13             | 13                   | 0                |
-| `pf1.skills`             | 26             | 3                    | 23               |
-| `pf1.spells`             | 2944           | 1267                 | 1677             |
-| `pf1.ultimate-equipment` | 227            | 227                  | 0                |
-| `pf1.weapons-and-ammo`   | 491            | 304                  | 187              |
+<!-- STATS - BEGIN -->
+| Pack | Nb. termes | Nb. non traduits | Nb. traduits |
+|---|---|---|---|
+| armors-and-shields | 64 | 9 | 55 |
+| class-abilities | 4363 | 4266 | 97 |
+| classes | 51 | 7 | 44 |
+| commonbuffs | 26 | 0 | 26 |
+| conditions | 35 | 24 | 11 |
+| feats | 177 | 1 | 176 |
+| items | 736 | 588 | 148 |
+| monster-templates | 189 | 189 | 0 |
+| mythic-paths | 6 | 0 | 6 |
+| races | 79 | 60 | 19 |
+| racial-hd | 13 | 3 | 10 |
+| skills | 26 | 3 | 23 |
+| spells | 2944 | 1255 | 1689 |
+| ultimate-equipment | 227 | 227 | 0 |
+| weapons-and-ammo | 491 | 304 | 187 |
+<!-- STATS - END -->
 
 ## Comment contribuer ?
 
