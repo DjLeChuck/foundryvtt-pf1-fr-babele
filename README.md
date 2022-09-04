@@ -1,12 +1,13 @@
 # Pathfinder 1 - Traduction FR (Babele)
 
-Ce module permet de traduire les différents compendium du système Pathfinder 1 en
+Ce module permet de traduire les différents compendium du système [Pathfinder 1](https://foundryvtt.com/packages/pf1)
+ainsi que les bestiaires du module [Pathfinder 1e - Bestiary](https://foundryvtt.com/packages/pf1-bestiary) en
 utilisant [Babele](https://foundryvtt.com/packages/babele).
 
 ## Quelle différence par rapport au module [Pathfinder 1 - Improvements for French](https://foundryvtt.com/packages/pf1-fr)
 
-Ce module ne traduit pas les compendium, il en crée des nouveaux à la place ce qui engendre parfois quelques problèmes
-avec les différentes automatisations proposées par le système de base.
+`Pathfinder 1 - Improvements for French` ne traduit pas les compendium, il en crée des nouveaux à la place ce qui
+engendre parfois quelques problèmes avec les différentes automatisations proposées par le système de base.
 
 L'avantage de passer par Babele est qu'il n'y a aucune création de compendium, seulement de la traduction à la volée.
 Grâce à cela, les automatismes de base du système fonctionnent directement.
@@ -21,7 +22,8 @@ Sinon, il est possible l'ajouter en utilisant le lien de son manifest :
 
 ## État d'avancement
 
-Pour chaque fichier, nombre de termes existants dans le compendium et nombre de termes déjà traduits.
+Pour chaque fichier, nombre de termes existants dans le compendium, nombre de termes non traduits et nombre de termes
+déjà traduits.
 
 <!-- STATS - BEGIN -->
 | Pack | Nb. termes | Nb. non traduits | Nb. traduits |
@@ -50,9 +52,9 @@ Pour chaque fichier, nombre de termes existants dans le compendium et nombre de 
 d'entrées qui ne sont pas traduites car il n'en existe pas de référencées sur le
 wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/).
 
-À présent, afin de faciliter la gestion des traductions, une interface web a été mise en place afin de permettre à
-chacun de contribuer sans avoir à passer par GitHub et en disposant d'une interface de saisie et mise en forme bien plus
-agréable que les chiers JSON de base !
+À présent, afin de faciliter la gestion des traductions, une interface web a été mise en place pour permettre à
+chacun de contribuer sans avoir à passer par GitHub tout en disposant d'une interface de saisie et de mise en forme
+bien plus agréable que les fichiers JSON de base !
 
 Ce site n'est accessible qu'aux personnes présentes sur le Discord [La Fonderie](https://discord.com/invite/pPSDNJk)
 (une connexion via Discord est nécessaire pour accéder à l'interface de traduction et une vérification est faîtes sur
