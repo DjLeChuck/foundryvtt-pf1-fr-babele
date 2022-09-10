@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Removed
+
+- Remove option to automatically translate actor's items on its creation
+  - It's already done by Babele! I think I just messed up with my tests.
+
 ## [0.0.5] - 2022-09-04
 
 ### Added
