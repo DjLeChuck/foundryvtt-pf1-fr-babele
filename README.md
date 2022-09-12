@@ -29,26 +29,26 @@ déjà traduits.
 | Pack | Nb. termes | Nb. non traduits | Nb. traduits |
 |---|---|---|---|
 | armors-and-shields | 64 | 0 | 64 |
-| bestiary-00 | 386 | 28 | 358 |
+| bestiary-00 | 386 | 0 | 386 |
 | bestiary-02 | 452 | 180 | 272 |
 | bestiary-04 | 420 | 208 | 212 |
 | bestiary-06 | 392 | 197 | 195 |
 | bestiary-08 | 468 | 234 | 234 |
 | bestiary-11 | 426 | 175 | 251 |
-| bestiary-15 | 323 | 143 | 180 |
-| bestiary-20 | 156 | 81 | 75 |
-| class-abilities | 4363 | 3753 | 610 |
+| bestiary-15 | 323 | 85 | 238 |
+| bestiary-20 | 156 | 0 | 156 |
+| class-abilities | 4363 | 3307 | 1056 |
 | classes | 51 | 0 | 51 |
 | commonbuffs | 26 | 0 | 26 |
 | conditions | 35 | 0 | 35 |
 | feats | 177 | 0 | 177 |
-| items | 736 | 425 | 311 |
+| items | 736 | 415 | 321 |
 | monster-templates | 189 | 143 | 46 |
 | mythic-paths | 6 | 0 | 6 |
-| races | 79 | 33 | 46 |
+| races | 79 | 0 | 79 |
 | racial-hd | 13 | 0 | 13 |
 | skills | 26 | 0 | 26 |
-| spells | 2944 | 1216 | 1728 |
+| spells | 2944 | 966 | 1978 |
 | ultimate-equipment | 227 | 0 | 227 |
 | weapons-and-ammo | 491 | 236 | 255 |
 <!-- STATS - END -->
