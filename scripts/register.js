@@ -15,15 +15,6 @@ Hooks.on('init', () => {
     },
   });
 
-  game.settings.register('pf1-fr-babele', 'autoTranslateOnCreateActor', {
-    name: 'Traduire automatiquement les objets d\'un acteur lors de sa création',
-    hint: 'Utilise Babele afin de traduire les objets de l\'acteur (race, classe, inventaire, etc.). Il s\'agit de la même fonctionnalité que le bouton "Traduire" propulsé par Babele en-tête de fiche.',
-    scope: 'world',
-    config: true,
-    default: true,
-    type: Boolean,
-  });
-
   if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {
     autoRegisterBabel();
   }

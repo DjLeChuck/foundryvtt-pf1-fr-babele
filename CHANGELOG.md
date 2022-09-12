@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2022-09-12
+
+### Fixed
+
+- Remove useless configuration option `autoTranslateOnCreateActor`
+
 ## [0.0.6] - 2022-09-12
 
 ### Updated
@@ -16,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Remove option to automatically translate actor's items on its creation
-  - It's already done by Babele! I think I just messed up with my tests.
+    - It's already done by Babele! I think I just messed up with my tests.
 
 ## [0.0.5] - 2022-09-04
 
@@ -53,7 +59,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.6...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.7...HEAD
+
+[0.0.7]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.6...0.0.7
 
 [0.0.6]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.5...0.0.6
 
