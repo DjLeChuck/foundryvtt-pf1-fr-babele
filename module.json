@@ -1,6 +1,5 @@
 {
   "id": "pf1-fr-babele",
-  "name": "pf1-fr-babele",
   "title": "Pathfinder 1 - Traduction FR (Babele)",
   "description": "Traduction française de Pathfinder 1 via Babele.",
   "authors": [
@@ -10,28 +9,14 @@
       "url": "https://github.com/djlechuck/"
     }
   ],
-  "version": "0.0.8",
-  "compatibleCoreVersion": "10",
-  "minimumCoreVersion": "9.269",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "9.269",
-    "verified": "10",
+    "minimum": "10",
+    "verified": "10.287",
     "maximum": "10"
   },
   "esmodules": [
     "scripts/register.js"
-  ],
-  "dependencies": [
-    {
-      "name": "pf1",
-      "type": "system"
-    },
-    {
-      "name": "babele"
-    },
-    {
-      "name": "lib-wrapper"
-    }
   ],
   "relationships": {
     "systems": [
@@ -54,7 +39,7 @@
   "socket": false,
   "url": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele",
   "manifest": "https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json",
-  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/0.0.8.zip",
+  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/1.0.0.zip",
   "bugs": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/issues",
   "changelog": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/main/CHANGELOG.md",
   "license": "./LICENSE",
