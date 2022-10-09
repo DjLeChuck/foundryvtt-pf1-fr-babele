@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2022-10-09
+
+### Updated
+
+- Bump translations
+
+### Fixed
+
+- Change "data." mappings to "system."
+
 ## [0.0.8] - 2022-09-24
 
 ### Added
@@ -69,7 +79,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.8...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.0.0...HEAD
+
+[1.0.0]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.8...1.0.0
 
 [0.0.8]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/0.0.7...0.0.8
 
