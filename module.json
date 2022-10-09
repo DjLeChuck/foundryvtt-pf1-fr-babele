@@ -10,14 +10,9 @@
       "url": "https://github.com/djlechuck/"
     }
   ],
-  "version": "0.0.8",
-  "compatibleCoreVersion": "10",
+  "version": "0.0.9",
+  "compatibleCoreVersion": "9",
   "minimumCoreVersion": "9.269",
-  "compatibility": {
-    "minimum": "9.269",
-    "verified": "10",
-    "maximum": "10"
-  },
   "esmodules": [
     "scripts/register.js"
   ],
@@ -33,30 +28,12 @@
       "name": "lib-wrapper"
     }
   ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "pf1",
-        "type": "system"
-      }
-    ],
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module"
-      },
-      {
-        "id": "lib-wrapper",
-        "type": "module"
-      }
-    ]
-  },
   "socket": false,
   "url": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele",
-  "manifest": "https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json",
-  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/0.0.8.zip",
+  "manifest": "https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/9.x/module.json",
+  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/0.0.9.zip",
   "bugs": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/issues",
-  "changelog": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/main/CHANGELOG.md",
+  "changelog": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/9.x/CHANGELOG.md",
   "license": "./LICENSE",
   "readme": "./README.md"
 }
