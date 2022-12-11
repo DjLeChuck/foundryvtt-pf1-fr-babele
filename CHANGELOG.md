@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Converters for additional translated content
+- Option to use assets from the premium module "Pathfinder Token Pack: Bestiaries"
+
 ## [1.0.0] - 2022-10-09
 
 ### Updated
