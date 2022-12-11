@@ -17,13 +17,26 @@ Hooks.on('init', () => {
     },
   });
 
+  game.settings.register('pf1-fr-babele', 'usePf2eTokensBestiaries', {
+    name: 'Utilisation du module premium Pathfinder Token Pack: Bestiaries',
+    hint: 'Remplace le portrait et le token des bestiaires qui ont une correspondance avec ce que propose le module.',
+    scope: 'world',
+    config: true,
+    default: false,
+    type: Boolean,
+    onChange: () => window.location.reload(),
+  });
+
+  converters.usePf2eTokensBestiaries = game.settings.get('pf1-fr-babele', 'usePf2eTokensBestiaries');
+
   Babele.get().registerConverters({
-    'actions': converters.actions,
-    'arrayOfArray': converters.arrayOfArray,
-    'contextNotes': converters.contextNotes,
-    'flagsDictionary': converters.flagsDictionary,
-    'learnedAt': converters.learnedAt,
-    'tableRollText': converters.tableRollText,
+    'actions': (value, translations) => converters.actions(value, translations),
+    'arrayOfArray': (value, translations) => converters.arrayOfArray(value, translations),
+    'contextNotes': (value, translations) => converters.contextNotes(value, translations),
+    'flagsDictionary': (value, translations) => converters.flagsDictionary(value, translations),
+    'learnedAt': (value, translations) => converters.learnedAt(value, translations),
+    'pf2TokensBestiaries': (value, translations) => converters.pf2TokensBestiaries(value, translations),
+    'tableRollText': (value, translations) => converters.tableRollText(value, translations),
   });
 
   if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {

@@ -1,4 +1,6 @@
 class Converters {
+  usePf2eTokensBestiaries = false;
+
   actions(value, translations) {
     if (!translations) {
       return value;
@@ -66,6 +68,10 @@ class Converters {
     });
 
     return value;
+  }
+
+  pf2TokensBestiaries(value, translations) {
+    return this.usePf2eTokensBestiaries ? translations : value;
   }
 
   tableRollText(value, translations) {
