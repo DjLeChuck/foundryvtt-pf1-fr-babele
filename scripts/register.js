@@ -1,3 +1,5 @@
+import converters from './converters.js';
+
 Hooks.on('init', () => {
   game.settings.register('pf1-fr-babele', 'autoRegisterBabel', {
     name: 'Activer automatiquement la traduction via Babele',
@@ -13,6 +15,15 @@ Hooks.on('init', () => {
 
       window.location.reload();
     },
+  });
+
+  Babele.get().registerConverters({
+    'actions': converters.actions,
+    'arrayOfArray': converters.arrayOfArray,
+    'contextNotes': converters.contextNotes,
+    'flagsDictionary': converters.flagsDictionary,
+    'learnedAt': converters.learnedAt,
+    'tableRollText': converters.tableRollText,
   });
 
   if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {
