@@ -6,10 +6,11 @@
     {
       "name": "DjLeChuck",
       "email": "djlechuck@gmail.com",
-      "url": "https://github.com/djlechuck/"
+      "url": "https://github.com/djlechuck/",
+      "flags": {}
     }
   ],
-  "version": "1.1.0",
+  "version": "1.1.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
@@ -22,24 +23,26 @@
     "systems": [
       {
         "id": "pf1",
-        "type": "system"
+        "type": "system",
+        "compatibility": {}
       }
     ],
     "requires": [
       {
         "id": "babele",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "lib-wrapper",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
-  "socket": false,
   "url": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele",
   "manifest": "https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json",
-  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/1.1.0.zip",
+  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/1.1.1.zip",
   "bugs": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/issues",
   "changelog": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/main/CHANGELOG.md",
   "license": "./LICENSE",
