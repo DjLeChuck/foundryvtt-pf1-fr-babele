@@ -51,8 +51,12 @@ class Converters {
       return value;
     }
 
-    value.forEach((type, index) => {
-      value[index][1] = translations[index];
+    translations.forEach((translation) => {
+      const [k, v] = translation;
+
+      if (value[k]) {
+        value[k] = v;
+      }
     });
 
     return value;

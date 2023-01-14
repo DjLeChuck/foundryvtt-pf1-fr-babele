@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.2] - 2023-01-14
+
+### Updated
+
+- Bump translations
+
+### Fixed
+
+- Fix "Dictionary Flags" translation
+
 ## [1.1.1] - 2023-01-07
 
 Happy New Year! 🎉
@@ -107,7 +117,9 @@ Happy New Year! 🎉
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.1...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.2...HEAD
+
+[1.1.2]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.1...1.1.2
 
 [1.1.1]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.0...1.1.1
 
