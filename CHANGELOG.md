@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.2] - 2023-07-18
+
+### Fixed
+
+- Disable "learnedAt" converter usage because data format has changed in the system
+
 ## [11.0.1] - 2023-07-18
 
 ### Fixed
@@ -131,7 +137,9 @@ Happy New Year! 🎉
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.1...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.2...HEAD
+
+[11.0.2]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.1...11.0.2
 
 [11.0.1]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.0...11.0.1
 
