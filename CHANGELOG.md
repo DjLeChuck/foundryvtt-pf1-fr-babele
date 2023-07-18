@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Protect against unavailable value in converters
+
 ## [11.0.0] - 2023-07-18
 
 FoundryVTT v11 compatibility! 🎉

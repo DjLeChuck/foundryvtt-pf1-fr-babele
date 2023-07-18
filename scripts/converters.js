@@ -2,7 +2,7 @@ class Converters {
   usePf2eTokensBestiaries = false;
 
   actions(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
@@ -36,7 +36,7 @@ class Converters {
   }
 
   arrayOfArray(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
@@ -48,7 +48,7 @@ class Converters {
   }
 
   contextNotes(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
@@ -60,7 +60,7 @@ class Converters {
   }
 
   flagsDictionary(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
@@ -76,7 +76,7 @@ class Converters {
   }
 
   learnedAt(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
@@ -92,7 +92,7 @@ class Converters {
   }
 
   tableRollText(value, translations) {
-    if (!translations) {
+    if (!value || !translations) {
       return value;
     }
 
