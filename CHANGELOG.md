@@ -125,7 +125,9 @@ Happy New Year! 🎉
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.2...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.0...HEAD
+
+[11.0.0]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.2...11.0.0
 
 [1.1.2]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/1.1.1...1.1.2
 
