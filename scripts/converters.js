@@ -13,7 +13,6 @@ class Converters {
       value[index].name = data.name;
       value[index].spellArea = data.spellArea;
       value[index].spellEffect = data.spellEffect;
-      value[index].target.value = data.target;
 
       if (value[index].duration?.value) {
         value[index].duration.value = data.duration;

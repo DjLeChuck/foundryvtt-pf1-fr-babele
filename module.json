@@ -10,7 +10,7 @@
       "flags": {}
     }
   ],
-  "version": "11.0.2",
+  "version": "11.0.3",
   "compatibility": {
     "minimum": "10",
     "verified": "11",
@@ -42,7 +42,7 @@
   },
   "url": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele",
   "manifest": "https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json",
-  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/11.0.2.zip",
+  "download": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/archive/11.0.3.zip",
   "bugs": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/issues",
   "changelog": "https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/main/CHANGELOG.md",
   "license": "./LICENSE",
