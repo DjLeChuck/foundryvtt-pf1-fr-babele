@@ -30,14 +30,15 @@ Hooks.on('init', () => {
   converters.usePf2eTokensBestiaries = game.settings.get('pf1-fr-babele', 'usePf2eTokensBestiaries');
 
   Babele.get().registerConverters({
-    'actions': (value, translations) => converters.actions(value, translations),
-    'arrayOfArray': (value, translations) => converters.arrayOfArray(value, translations),
-    'contextNotes': (value, translations) => converters.contextNotes(value, translations),
-    'flagsDictionary': (value, translations) => converters.flagsDictionary(value, translations),
-    'learnedAt': (value, translations) => converters.learnedAt(value, translations),
-    'pf2TokensBestiaries': (value, translations) => converters.pf2TokensBestiaries(value, translations),
-    'tableRollText': (value, translations) => converters.tableRollText(value, translations),
-    'simpleArray': (value, translations) => converters.simpleArray(value, translations),
+    actions: converters.actions,
+    arrayOfArray: converters.arrayOfArray,
+    contextNotes: converters.contextNotes,
+    flagsDictionary: converters.flagsDictionary,
+    learnedAt: converters.learnedAt,
+    pf2TokensBestiaries: converters.pf2TokensBestiaries,
+    tableRollText: converters.tableRollText,
+    simpleArray: converters.simpleArray,
+    subSchool: converters.translateSubSchool,
   });
 
   if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {

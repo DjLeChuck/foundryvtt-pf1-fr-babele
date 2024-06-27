@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Traduction des libellés des voies mythiques
 - Traduction des « Weapon Proficienses » et « Armor Proficiencies » personnalisés des classes
+- Traduction des branches des sorts
 
 ## [11.0.3] - 2023-07-19
 

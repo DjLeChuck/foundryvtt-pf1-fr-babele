@@ -107,13 +107,40 @@ class Converters {
       return value;
     }
 
-    const splitTranslations = translations.split(";");
+    const splitTranslations = translations.split(';');
 
     value.forEach((type, index) => {
       value[index] = splitTranslations[index];
     });
 
     return value;
+  }
+
+  // credits to McGreger: https://gitlab.com/arkanamirium/foundryvtt-pf1e-de/-/blob/develop/scripts/converters.js
+  translateSubSchool(subschool) {
+    const subSchoolMap = new Map([
+      ['calling', 'Appel'],
+      ['charm', 'Charme'],
+      ['compulsion', 'Coercition'],
+      ['creation', 'Création'],
+      ['figment', 'Chimère'],
+      ['glamer', 'Hallucination'],
+      ['haunted', 'Hanté'],
+      ['healing', 'Guérison'],
+      ['pattern', 'Mirage'],
+      ['phantasm', 'Fantasme'],
+      ['polymorph', 'Métamorphose'],
+      ['scrying', 'Scrutation'],
+      ['shadow', 'Ombre'],
+      ['summoning', 'Convocation'],
+      ['teleportation', 'Téléportation'],
+    ]);
+
+    subSchoolMap.forEach((translation, original) => {
+      subschool = subschool.replace(original, translation);
+    });
+
+    return subschool;
   }
 }
 
