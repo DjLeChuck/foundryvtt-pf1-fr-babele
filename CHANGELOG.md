@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Traduction des libellés des voies mythiques
+
 ## [11.0.3] - 2023-07-19
 
 ### Fixed
