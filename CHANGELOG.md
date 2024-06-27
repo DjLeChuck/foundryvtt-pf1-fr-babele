@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.1.0] - 2024-06-27
+
 ### Added
 
 - Traduction de certains dossiers de compendiums
@@ -153,7 +155,9 @@ Happy New Year! 🎉
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.3...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.1.0...HEAD
+
+[11.1.0]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.3...11.1.0
 
 [11.0.3]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.2...11.0.3
 
