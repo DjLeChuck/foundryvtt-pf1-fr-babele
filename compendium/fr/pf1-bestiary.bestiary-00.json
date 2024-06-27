@@ -1,1 +1,1940 @@
-{"label":"Bestiaire 00+","mapping":{"img":{"path":"img","converter":"pf2TokensBestiaries"},"token":{"path":"prototypeToken.texture.src","converter":"pf2TokensBestiaries"}},"entries":{"Aasimar":{"name":"Aasimar","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/aasimar-redeemer.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/aasimar-redeemer.webp"},"Akaname":{"name":"Akaname","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Akata":{"name":"Akata","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/akata.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/akata.webp"},"Almiraj":{"name":"Almiraj","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Alpluachra":{"name":"Alpluachre","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Amoeba Swarm":{"name":"Nuée d'amibes","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-swarm.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-swarm.webp"},"Android":{"name":"Androïde","img":"systems/pf1/icons/races/android.png","token":"systems/pf1/icons/races/android.png"},"Animate Hair":{"name":"Chevelure animée","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Antelope":{"name":"Antilope","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Anunnaki":{"name":"Anunnaki","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Aphorite":{"name":"Aphorite","img":"systems/pf1/icons/races/aphorite.png","token":"systems/pf1/icons/races/aphorite.png"},"Arachnid Robot":{"name":"Robot arachnide","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Archaeopteryx":{"name":"Archéoptéryx","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Arctic Hare":{"name":"Lièvre arctique","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Arctic Tern":{"name":"Sterne arctique","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Armadillo":{"name":"Tatou","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Astomoi":{"name":"Astomoï","img":"systems/pf1/icons/races/fetchling.png","token":"systems/pf1/icons/races/fetchling.png"},"Atomie":{"name":"Atomie","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Baboon":{"name":"Babouin","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Bacallia":{"name":"Bacallia","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Badger":{"name":"Blaireau","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/badger.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/badger.webp"},"Bat":{"name":"Chauve-souris","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Bathysphere":{"name":"Méduse bathysphère","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Beheaded":{"name":"Décapité","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Biloko":{"name":"Biloko","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Black Spot":{"name":"Tâche noire","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Blackwisp Egret":{"name":"Aigrette noirfollet","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Blue-Ringed Octopus":{"name":"Pieuvre à anneaux bleus","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/blue-ringed-octopus.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/blue-ringed-octopus.webp"},"Bogwiggle":{"name":"Bourbgigoteur (bourbiérin)","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Boilborn":{"name":"Bulle du chaudron","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Brain Mole":{"name":"Taupe cérébrale","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Bramblelash":{"name":"Fouetteroncier","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Brownie":{"name":"Lutin","img":"modules/pf2e-tokens-bestiaries/portraits/fey/brownie.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/brownie.webp"},"Bugbear Echohusk":{"name":"Gobelours écho écorché","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Bulabar":{"name":"Bulabar","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Butterfly/Moth":{"name":"Papillon / Papillon de nuit","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Caligni":{"name":"Caligni","img":"systems/pf1/icons/races/half-elf.png","token":"systems/pf1/icons/races/half-elf.png"},"Camel":{"name":"Chameau","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/camel.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/camel.webp"},"Carbuncle":{"name":"Escarboucle","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/carbuncle.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/carbuncle.webp"},"Carrionstorm":{"name":"Nuée de charognes","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Cat":{"name":"Chat","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Catfolk":{"name":"Homme-félin","img":"systems/pf1/icons/races/catfolk.png","token":"systems/pf1/icons/races/catfolk.png"},"Cave Scorpion":{"name":"Scorpion des cavernes","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cave-scorpion.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cave-scorpion.webp"},"Celedon":{"name":"Célédon","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Changeling":{"name":"Changelin","img":"systems/pf1/icons/races/changeling.png","token":"systems/pf1/icons/races/changeling.png"},"Chicken":{"name":"Poulet","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Chon Chon":{"name":"Chon chon","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Clawbat":{"name":"Griffe volante","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Clockwork Songbird":{"name":"Passereau mécanique","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Clockwork Spy":{"name":"Espion mécanique","img":"modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwork-spy.webp","token":"modules/pf2e-tokens-bestiaries/tokens/constructed/mechanical/clockwork-spy.webp"},"Cockroach":{"name":"Cafard","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Coffin Anemone":{"name":"Anémone cercueil","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Common Eurypterid":{"name":"Euryptéridé commun","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/common-eurypterid.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/common-eurypterid.webp"},"Compsognathus":{"name":"Compsognathus","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/compsognathus.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/compsognathus.webp"},"Coral Capuchin":{"name":"Capucin corail","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/coral-capuchin.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/coral-capuchin.webp"},"Crawling Hand":{"name":"Main rampante","img":"modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/crawling-hand.webp"},"Creeper Ivy":{"name":"Lierre grimpant","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Cytillesh Zombie":{"name":"Zombi cytillesh","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Dallo":{"name":"Dallo","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dark Dancer":{"name":"Danseur obscur","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Darkmantle":{"name":"Mante obscure","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Death’s Head Jellyfish":{"name":"Méduse à tête de mort","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Deep One":{"name":"Profond","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Deep One Hybrid":{"name":"Profond, hybride","img":"systems/pf1/icons/races/creature-types/construct.png","token":"systems/pf1/icons/races/creature-types/construct.png"},"Dhampir":{"name":"Dhampir","img":"systems/pf1/icons/races/dhampir.png","token":"systems/pf1/icons/races/dhampir.png"},"Dimorphodon":{"name":"Dimorphodon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dire Corby":{"name":"Corbie sanguinaire","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Dire Rat":{"name":"Rat sanguinaire","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-giant.webp"},"Dodo":{"name":"Dodo","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dog":{"name":"Chien","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dolphin":{"name":"Dauphin","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Donkey Rat":{"name":"Rat-âne","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dossenus":{"name":"Dossenus","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Drain Spider":{"name":"Araignée des égouts","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Drochtac":{"name":"Drochtac","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Drow":{"name":"Drow","img":"systems/pf1/icons/races/drow.png","token":"systems/pf1/icons/races/drow.png"},"Drow Scout":{"name":"Drow, éclaireur","img":"systems/pf1/icons/races/drow.png","token":"systems/pf1/icons/races/drow.png"},"Duergar":{"name":"Duergar","img":"systems/pf1/icons/races/android.png","token":"systems/pf1/icons/races/android.png"},"Duergar Anvil":{"name":"Duergar, enclume","img":"systems/pf1/icons/races/android.png","token":"systems/pf1/icons/races/android.png"},"Duergar Bombardier":{"name":"Duergar, bombardier","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-bombardier.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/duergar-bombardier.webp"},"Duergar Sergeant":{"name":"Duergar, sergent","img":"systems/pf1/icons/races/android.png","token":"systems/pf1/icons/races/android.png"},"Duergar Sharpshooter":{"name":"Duergar, tireur d’élite","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-sharpshooter.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/duergar-sharpshooter.webp"},"Duergar Slaver":{"name":"Duergar, esclavagiste","img":"systems/pf1/icons/races/android.png","token":"systems/pf1/icons/races/android.png"},"Duskwalker":{"name":"Marcheurs ténébreux","img":"systems/pf1/icons/races/creature-types/outsider.png","token":"systems/pf1/icons/races/creature-types/outsider.png"},"Dwarf Caiman":{"name":"Caïman nain","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Dweomer Cap":{"name":"Chapeau enchanté","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Eagle":{"name":"Aigle","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle.webp"},"Eaisge":{"name":"Eaisge","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Echeneis":{"name":"Écheneis","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Ectoplasmic Human":{"name":"Humain ectoplasmique","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Elk":{"name":"Élan","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Etiainen":{"name":"Étiainen","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Exoskeleton Giant Cockroach":{"name":"Exosquelette cafard géant","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Faerie Mount":{"name":"Monture féérique","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Faun":{"name":"Faune","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Festrog":{"name":"Festrog","img":"modules/pf2e-tokens-bestiaries/portraits/undead/festrog.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/festrog.webp"},"Fetchling":{"name":"Fetchelin","img":"systems/pf1/icons/races/fetchling.png","token":"systems/pf1/icons/races/fetchling.png"},"Fire Beetle":{"name":"Punaise de feu","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Fire Salamander":{"name":"Salamandre de feu","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Flaming Skull":{"name":"Crâne brûlant","img":"modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/flaming-skull.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/flaming-skull.webp"},"Fleshdreg":{"name":"Charognier","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Flowering Lattice":{"name":"Treillage florissant","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Flumph":{"name":"Flumph","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/flumph.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/flumph.webp"},"Flying Fox":{"name":"Roussette","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Flying Squirrel":{"name":"Écureuil volant","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Formian Worker":{"name":"Ouvrier formien","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Four-Armed Mudra Skeleton":{"name":"Squelette de mudra à quatre bras","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Fox":{"name":"Renard","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/red-fox.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/red-fox.webp"},"Frost Fir":{"name":"Sapin du froid","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Fuath":{"name":"Fuath","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/fuath.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/fuath.webp"},"Ganzi":{"name":"Ganzi","img":"systems/pf1/icons/races/tiefling.png","token":"systems/pf1/icons/races/tiefling.png"},"Gar":{"name":"Gar","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Gathlain":{"name":"Gathelain","img":"systems/pf1/icons/spells/vines-acid-1.jpg","token":"systems/pf1/icons/spells/vines-acid-1.jpg"},"Ghoran":{"name":"Ghoran","img":"systems/pf1/icons/races/creature-types/plant.png","token":"systems/pf1/icons/races/creature-types/plant.png"},"Ghost Scorpion":{"name":"Scorpion fantomatique","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Ghoul":{"name":"Goule","img":"modules/pf2e-tokens-bestiaries/portraits/undead/ghoul.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/ghoul.webp"},"Ghoul Hound":{"name":"Molosse goule","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Giant Amoeba":{"name":"Amibe géante","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-giant.webp"},"Giant Bee":{"name":"Abeille géante","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Botfly":{"name":"Gastrophile géant","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Centipede":{"name":"Mille-pattes géant","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/centipede-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/centipede-giant.webp"},"Giant Cicada":{"name":"Cigale génate","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Cockroach":{"name":"Cafard géant","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cockroach-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp"},"Giant Crab Spider":{"name":"Araignée-crabe géante","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Flea":{"name":"Puce géante","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Frog":{"name":"Grenouille géante","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/frog-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/frog-giant.webp"},"Giant Isopod":{"name":"Isopode géant","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Raven":{"name":"Corbeau géant","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Giant Solifugid":{"name":"Solifuge géant","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/solifugid-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/solifugid-giant.webp"},"Giant Spider":{"name":"Araignée géante","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Tardigrade":{"name":"Tardigrade géant","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Tick":{"name":"Tique géante","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tick-giant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tick-giant.webp"},"Giant Tortoise":{"name":"Tortue géante","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Giant Water Strider":{"name":"Hydromètre géant","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Giant Weasel":{"name":"Belette géante","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Gillman":{"name":"Aquatique","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Gishvit":{"name":"Gishvit","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Gluttongrass":{"name":"Herbegloutonne","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Gnoll":{"name":"Gnoll","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/gnoll-sergeant.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/gnoll-sergeant.webp"},"Goat":{"name":"Chèvre","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Goblin":{"name":"Gobelin","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-warrior.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-warrior.webp"},"Goblin Dog":{"name":"Chien gobelin","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-dog.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-dog.webp"},"Goblin Outrider":{"name":"Gobelin, pionnier","img":"systems/pf1/icons/races/goblin.png","token":"systems/pf1/icons/races/goblin.png"},"Goblin Snake":{"name":"Serpent gobelin","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Goblin Sneak":{"name":"Gobelin vicieux","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-commando.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-commando.webp"},"Gourd Leshy":{"name":"Léchi, calebasse","img":"modules/pf2e-tokens-bestiaries/portraits/plant/leshy/gourd-leshy.webp","token":"modules/pf2e-tokens-bestiaries/tokens/plant/leshy/gourd-leshy.webp"},"Great Horned Owl":{"name":"Grand-duc","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Greensting Scorpion":{"name":"Scorpion dard-vert","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Grig":{"name":"Grig","img":"modules/pf2e-tokens-bestiaries/portraits/fey/fairy/grig.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/fairy/grig.webp"},"Grimple":{"name":"Tristefripe","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/grimple.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/grimple.webp"},"Grindylow":{"name":"Grindylow","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grindylow.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/grindylow.webp"},"Grioth":{"name":"Grioth","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Grippli":{"name":"Grippli","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/grippli-scout.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/grippli-scout.webp"},"Gryph":{"name":"Gryph","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Haniver":{"name":"Haniver","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/haniver.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/haniver.webp"},"Hawk":{"name":"Faucon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Hedgehog":{"name":"Hérisson","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Hippocampus":{"name":"Hippocampe","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/hippocampus.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/hippocampus.webp"},"Hobgoblin":{"name":"Hobgobelin","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-soldier.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/hobgoblin-soldier.webp"},"Hobkins":{"name":"Hobkins","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Hollow Helm":{"name":"Heaume vide","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Homunculus":{"name":"Homoncule","img":"modules/pf2e-tokens-bestiaries/portraits/constructed/magical/homunculus.webp","token":"modules/pf2e-tokens-bestiaries/tokens/constructed/magical/homunculus.webp"},"Hook Fly Swarm":{"name":"Nuée de mouches crochet","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Horn Caterpillar":{"name":"Chenille à corne","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Horned Lizard":{"name":"Lézard cornu","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Horse":{"name":"Cheval","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"House Centipede":{"name":"Mille-pattes domestique","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Human Skeleton":{"name":"Squelette humain","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Human Zombie":{"name":"Zombi humain","img":"modules/pf2e-tokens-bestiaries/portraits/undead/zombie-brute.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/zombie-brute.webp"},"Hunter Urchin":{"name":"Oursin chasseur","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Hyena":{"name":"Hyène","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hyena.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/hyena.webp"},"Ifrit":{"name":"Ifrit","img":"systems/pf1/icons/races/ifrit.png","token":"systems/pf1/icons/races/ifrit.png"},"Ioun Wyrd":{"name":"Wyrd Ioun","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Isitoq":{"name":"Isitoq","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Jack-o'-Lantern":{"name":"Tête de citrouille","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Jackal":{"name":"Chacal","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Jerboa":{"name":"Gerboise","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Jigsaw Shark":{"name":"Requin-puzzle","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Jinkin":{"name":"Jinkin","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/jinkin.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/jinkin.webp"},"Kakapo":{"name":"Kakapo","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Kangaroo":{"name":"Kangourou","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/kangaroo.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/kangaroo.webp"},"Kasatha":{"name":"Kasatha","img":"systems/pf1/icons/races/orc.png","token":"systems/pf1/icons/races/orc.png"},"Katroome":{"name":"Katroome","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Keulia":{"name":"Keulia","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"King Crab":{"name":"Crabe Royal","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Kitsune":{"name":"Kitsune","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/kitsune-trickster.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/kitsune-trickster.webp"},"Koala":{"name":"Koala","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Kobold":{"name":"Kobold","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-warrior.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-warrior.webp"},"Kobold Bomber":{"name":"Kobold, bombardier","img":"systems/pf1/icons/races/kobold.png","token":"systems/pf1/icons/races/kobold.png"},"Kobold Monster Wrangler":{"name":"Kobold, palefrenier des monstres","img":"systems/pf1/icons/races/kobold.png","token":"systems/pf1/icons/races/kobold.png"},"Kobold Scalecaster":{"name":"Kobold, mage des écailles","img":"systems/pf1/icons/races/kobold.png","token":"systems/pf1/icons/races/kobold.png"},"Kobold Sniper":{"name":"Kobold, sniper","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-scout.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-scout.webp"},"Krenshar":{"name":"Krenshar","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Kuru":{"name":"Kuru","img":"systems/pf1/icons/skills/blood_07.jpg","token":"systems/pf1/icons/skills/blood_07.jpg"},"Lamprey":{"name":"Lamproie","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Larva":{"name":"Larve","img":"modules/pf2e-tokens-bestiaries/portraits/planar/petitioner/larva.webp","token":"modules/pf2e-tokens-bestiaries/tokens/planar/petitioner/larva.webp"},"Larval Chuul":{"name":"Chuul Larvaire","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Lashunta":{"name":"Lashunta","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Leaf Leshy":{"name":"Léchi de feuilles","img":"modules/pf2e-tokens-bestiaries/portraits/plant/leshy/leaf-leshy.webp","token":"modules/pf2e-tokens-bestiaries/tokens/plant/leshy/leaf-leshy.webp"},"Leaf Ray":{"name":"Raie manta feuillue","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Lemming":{"name":"Lemming","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Lemure":{"name":"Lémure","img":"modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/lemure.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/lemure.webp"},"Leopard Slug":{"name":"Limace léopard","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Lich Newt":{"name":"Triton liche","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Lizard":{"name":"Lézard","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Lizardfolk":{"name":"Homme-lézard","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/lizardfolk-defender.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/lizardfolk-defender.webp"},"Llama":{"name":"Lama","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Locathah":{"name":"Locathah","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Manta Ray":{"name":"Raie manta","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/manta-ray.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/manta-ray.webp"},"Margay Cat":{"name":"Margay","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Mechanical Efreeti":{"name":"Ifrit mécanique","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Meerkat":{"name":"Suricate","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Melancholic Ooze Swarm":{"name":"Nuée de vase mélancolique","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Merfolk":{"name":"Homme-poisson","img":"systems/pf1/icons/races/undine.png","token":"systems/pf1/icons/races/undine.png"},"Mite":{"name":"Mite","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Mockingfey":{"name":"Fée moqueuse","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Mole":{"name":"Taupe","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Monaciello":{"name":"Monaciello","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Mongrelman":{"name":"Bâtard","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Monkey":{"name":"Singe","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/monkey.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/monkey.webp"},"Monkey Goblin":{"name":"Gobelin singe","img":"systems/pf1/icons/skills/affliction_24.jpg","token":"systems/pf1/icons/skills/affliction_24.jpg"},"Muckdweller":{"name":"Lézard de vase","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Mummified Baboon":{"name":" Babouin momifié","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Munavri":{"name":"Munavri","img":"systems/pf1/icons/spells/evil-eye-eerie-1.jpg","token":"systems/pf1/icons/spells/evil-eye-eerie-1.jpg"},"Nagaji":{"name":"Nagaji","img":"systems/pf1/icons/races/vishkanya.png","token":"systems/pf1/icons/races/vishkanya.png"},"Naiad":{"name":"Naïade","img":"modules/pf2e-tokens-bestiaries/portraits/fey/nymph/naiad.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/nymph/naiad.webp"},"Ningyo":{"name":"Ningyo","img":"systems/pf1/icons/skills/blue_32.jpg","token":"systems/pf1/icons/skills/blue_32.jpg"},"Nixie":{"name":"Nixe","img":"modules/pf2e-tokens-bestiaries/portraits/fey/nixie.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/nixie.webp"},"Nukkefeen":{"name":"Nukkefeen","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Nuno":{"name":"Nuno","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Nupperibo":{"name":"Nupperibo","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Nymph Water Strider":{"name":"Hydromètre nymphe","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Ochre Eurypterid":{"name":"Euryptéride Ocre","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Octopus":{"name":"Pieuvre","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Onwu Azu":{"name":"Onwu Azu","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Orang-pendak":{"name":"Orang-pendak","img":"systems/pf1/icons/skills/blue_26.jpg","token":"systems/pf1/icons/skills/blue_26.jpg"},"Orc":{"name":"Orque","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-warrior.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/orc-warrior.webp"},"Oread":{"name":"Oréade","img":"systems/pf1/icons/races/oread.png","token":"systems/pf1/icons/races/oread.png"},"Ostovite":{"name":"Ostovite","img":"modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/ostovite.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/ostovite.webp"},"Ostrich":{"name":"Autruche","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Otter":{"name":"Loutre","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Owl":{"name":"Chouette","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Patchwork Insect Swarm":{"name":"Nuée d'instectes protéiformes","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Peacock":{"name":"Paon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Peafowl":{"name":"Paon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Penguin":{"name":"Manchot","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Petitioner":{"name":"Pétitionnaire","img":"systems/pf1/icons/races/human.jpg","token":"systems/pf1/icons/races/human.jpg"},"Petrifern":{"name":"Petrifern","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Petromin":{"name":"Petromin","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Phlegmatic Ooze Swarm":{"name":"Nuée de vase flegmatique","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Pickled Punk":{"name":"Foetus en bocal","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Pig":{"name":"Cochon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Platypus":{"name":"Ornithorynque","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Poison Frog":{"name":"Grenouille venimeuse","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Pony":{"name":"Poney","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Popoto":{"name":"Popoto","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Popoto Dolphin":{"name":"Dauphin Popoto","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Poppet, Small":{"name":"Petit pantin","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Poppet, Tiny":{"name":"Très petit pantin","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Porcupine":{"name":"Porc-épic","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Pseudodragon":{"name":"Pseudo-dragon","img":"systems/pf1/icons/skills/fire_05.jpg","token":"systems/pf1/icons/skills/fire_05.jpg"},"Ptarmigan":{"name":"Lagopède","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Pufferfish":{"name":"Poisson-globe","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/pufferfish.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/pufferfish.webp"},"Puffin":{"name":"Macareux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Pugwampi":{"name":"Pugwampi","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/pugwampi.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/pugwampi.webp"},"Pyrausta":{"name":"Pyrauste","img":"systems/pf1/icons/skills/fire_05.jpg","token":"systems/pf1/icons/skills/fire_05.jpg"},"Quillcat":{"name":"Félin épineux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Rabbit":{"name":"Lapin","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Raccoon":{"name":"Raton laveur","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Ram":{"name":"Bélier","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Ramidreju":{"name":"Ramidreju","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Rat":{"name":"Rat","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Ratfolk":{"name":"Homme-rat","img":"systems/pf1/icons/races/ratfolk.png","token":"systems/pf1/icons/races/ratfolk.png"},"Ratfolk Tinkerer":{"name":"Homme-rat, rétameur","img":"systems/pf1/icons/races/ratfolk.png","token":"systems/pf1/icons/races/ratfolk.png"},"Raven":{"name":"Corbeau","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/avian/raven.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/avian/raven.webp"},"Ravenous Tumbleweed":{"name":"Herbe déracinée vorace","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Razor Fern":{"name":"Fougère rasoir","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Reborn Samsaran":{"name":"Samsaran réincarné","img":"systems/pf1/icons/feats/blinding-critical.jpg","token":"systems/pf1/icons/feats/blinding-critical.jpg"},"Red Panda":{"name":"Petit panda","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Reefclaw":{"name":"Griffe du récif","img":"modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/reefclaw.webp","token":"modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/reefclaw.webp"},"Reptoid":{"name":"Reptoïde","img":"systems/pf1/icons/feats/gorgons-fist.jpg","token":"systems/pf1/icons/feats/gorgons-fist.jpg"},"Rhamphorhynchus":{"name":"Rhamphorhynchus","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Riding Dog":{"name":"Chien de selle","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-dog.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/riding-dog.webp"},"Ringhorn":{"name":"Cerf cornannelé","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Rock Tuatara":{"name":"Tuatara rocheux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Rougarou":{"name":"Rougarou","img":"systems/pf1/icons/races/creature-types/animal.png","token":"systems/pf1/icons/races/creature-types/animal.png"},"Rune Guardian":{"name":" Gardien des runes","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Sagari":{"name":"Sagari","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Samsaran":{"name":"Samsaran","img":"systems/pf1/icons/feats/blinding-critical.jpg","token":"systems/pf1/icons/feats/blinding-critical.jpg"},"Sanguine Ooze Swarm":{"name":"Nuée de vase sanguine","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Sawleg Locust":{"name":"Sauterelle patte-de-scie","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Scarlet Spider":{"name":"Araignée écarlate","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Sea Crawler":{"name":"Rampant des mers","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Sea Snake":{"name":"Serpent d'eau","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/sea-snake.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/sea-snake.webp"},"Seal":{"name":"Phoque","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Severed Head":{"name":"Tête coupée","img":"modules/pf2e-tokens-bestiaries/portraits/undead/severed-head.webp","token":"modules/pf2e-tokens-bestiaries/tokens/undead/severed-head.webp"},"Shabti":{"name":"Shabti","img":"systems/pf1/icons/skills/light_07.jpg","token":"systems/pf1/icons/skills/light_07.jpg"},"Shimmerwing Dragonfly":{"name":"Libellule ailescintillante","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Skapraun":{"name":"Skapraun","img":"systems/pf1/icons/skills/green_10.jpg","token":"systems/pf1/icons/skills/green_10.jpg"},"Skeletal Mount":{"name":"Monture squelettique","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Skincrawler":{"name":"Peau rampante","img":"systems/pf1/icons/skills/green_30.jpg","token":"systems/pf1/icons/skills/green_30.jpg"},"Skinwalker":{"name":"Changepeau","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Skittergoat":{"name":"Skittergoat","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Skulk":{"name":"Skulk","img":"modules/pf2e-tokens-bestiaries/portraits/humanoid/skulk.webp","token":"modules/pf2e-tokens-bestiaries/tokens/humanoid/skulk.webp"},"Skull Swarm":{"name":"Nuée de crânes","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Skunk":{"name":"Moufette","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/skunk.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/skunk.webp"},"Skvader":{"name":"Skvader","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Sloth":{"name":"Paresseux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Small Aether Elemental":{"name":"Élémentaire d’Aether (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Air Elemental":{"name":"Élémentaire de l’Air (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Earth Elemental":{"name":"Élémentaire de Terre (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Fire Elemental":{"name":"Élémentaire du Feu (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Ice Elemental":{"name":"Élémentaire de la Glace (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Lightning Elemental":{"name":"Élémentaire de l’Éclair (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Magma Elemental":{"name":"Élémentaire du Magma (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Mud Elemental":{"name":"Élémentaire de la Boue (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Small Water Elemental":{"name":"Élémentaire de l’Eau (Petit)","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Snapping Turtle":{"name":"Tortue happante","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/snapping-turtle.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/snapping-turtle.webp"},"Snark":{"name":"Snark","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Sootwing Bat":{"name":"Chauve-souris aile de suie","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Sorico":{"name":"Sorico","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Spider Swarm":{"name":"Nuée d'araignées","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/spider-swarm.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/spider-swarm.webp"},"Spiny Starfish":{"name":"Étoile de mer épineuse","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Sprite":{"name":"Esprit follet","img":"modules/pf2e-tokens-bestiaries/portraits/fey/fairy/sprite.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/fairy/sprite.webp"},"Squid":{"name":"Calmar","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Squirrel":{"name":"Écureuil","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Stag":{"name":"Cerf","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Stingray":{"name":"Raie à aiguillon","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/stingray.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/stingray.webp"},"Stirge":{"name":"Strige","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Strix":{"name":"Strix","img":"systems/pf1/icons/races/creature-types/outsider.png","token":"systems/pf1/icons/races/creature-types/outsider.png"},"Suli":{"name":"Suli","img":"systems/pf1/icons/races/creature-types/elemental.png","token":"systems/pf1/icons/races/creature-types/elemental.png"},"Sunbaked Zombie":{"name":"Zombie grillé","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Sunflower Leshy":{"name":"Léchi tournesol","img":"modules/pf2e-tokens-bestiaries/portraits/plant/leshy/sunflower-leshy.webp","token":"modules/pf2e-tokens-bestiaries/tokens/plant/leshy/sunflower-leshy.webp"},"Suture Vine":{"name":"Liane barbelée","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Svirfneblin":{"name":"Svirfneblin","img":"systems/pf1/icons/races/gnome.png","token":"systems/pf1/icons/races/gnome.png"},"Switchback Jackal":{"name":"Chacal rebrousseux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Sylph":{"name":"Sylphe","img":"systems/pf1/icons/races/sylph.png","token":"systems/pf1/icons/races/sylph.png"},"Syrinx":{"name":"Syrinx","img":"systems/pf1/icons/skills/red_26.jpg","token":"systems/pf1/icons/skills/red_26.jpg"},"Tarsier":{"name":"Tarsier","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tauhoti":{"name":"Tauhoti","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tengu":{"name":"Tengu","img":"systems/pf1/icons/races/tengu.png","token":"systems/pf1/icons/races/tengu.png"},"Thrush":{"name":"Grive","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Thylacine":{"name":"Thylacine","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tiefling":{"name":"Tieffelin","img":"systems/pf1/icons/races/tiefling.png","token":"systems/pf1/icons/races/tiefling.png"},"Tiger Fish":{"name":"Poisson-tigre","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Toad":{"name":"Crapaud","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tooth Fairy":{"name":"Lutin des dents","img":"modules/pf2e-tokens-bestiaries/portraits/fey/fairy/tooth-fairy.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/fairy/tooth-fairy.webp"},"Torble":{"name":"Torble","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Triaxian":{"name":"Triaxien","img":"systems/pf1/icons/skills/blue_37.jpg","token":"systems/pf1/icons/skills/blue_37.jpg"},"Trilobite":{"name":"Trilobite","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/trilobite.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/trilobite.webp"},"Troglodyte":{"name":"Troglodyte","img":"systems/pf1/icons/skills/blue_35.jpg","token":"systems/pf1/icons/skills/blue_35.jpg"},"Troodon":{"name":"Troodon","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Trumpeter Swan":{"name":"Cygne trompette","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tuatara":{"name":"Tuatara","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Tullimonstrum":{"name":"Tullimonstrum","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Turtle":{"name":"Tortue de mer","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Undead Ningyo":{"name":"Ningyo mort-vivant","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Undine":{"name":"Ondin","img":"systems/pf1/icons/races/undine.png","token":"systems/pf1/icons/races/undine.png"},"Vampire Squid":{"name":"Calmar vampire","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/vampire-squid.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/vampire-squid.webp"},"Vanara":{"name":"Vanara","img":"systems/pf1/icons/races/vanara.png","token":"systems/pf1/icons/races/vanara.png"},"Varisian Hagfish":{"name":"Myxine varisienne","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Vegepygmy":{"name":"Végépygmée","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Venomous Snake":{"name":"Serpent venimeux","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Vexgit":{"name":"Vexgit","img":"modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/vexgit.webp","token":"modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/vexgit.webp"},"Viper":{"name":"Vipère","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/viper.webp"},"Vishkanya":{"name":"Vishkanya","img":"systems/pf1/icons/races/vishkanya.png","token":"systems/pf1/icons/races/vishkanya.png"},"Vulture":{"name":"Vautour","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Wallaby":{"name":"Wallaby","img":"systems/pf1/icons/skills/blue_29.jpg","token":"systems/pf1/icons/skills/blue_29.jpg"},"Water Strider Swarm":{"name":"Nuée d'hydromètres","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Wayang":{"name":"Wayang","img":"systems/pf1/icons/races/gnoll.png","token":"systems/pf1/icons/races/gnoll.png"},"Weasel":{"name":"Belette","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/weasel.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/weasel.webp"},"Whisperfall Vulture":{"name":"Vautour du murmure","img":"systems/pf1/icons/races/orc.png","token":"systems/pf1/icons/races/orc.png"},"Witchcrow":{"name":"Corneille-sorcière","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Wizard's Shackle":{"name":"Entrave du mage","img":"systems/pf1/icons/skills/yellow_25.jpg","token":"systems/pf1/icons/skills/yellow_25.jpg"},"Wolf":{"name":"Loup","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wolf.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/wolf.webp"},"Wolpertinger":{"name":"Wolpertinger","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"},"Wood":{"name":"Idole en bois","img":"systems/pf1/icons/skills/mech_7.jpg","token":"systems/pf1/icons/skills/mech_7.jpg"},"Wyrwood":{"name":"Virebois","img":"systems/pf1/icons/races/creature-types/construct.png","token":"systems/pf1/icons/races/creature-types/construct.png"},"Wyvaran":{"name":"Wivaran","img":"systems/pf1/icons/races/creature-types/dragon.png","token":"systems/pf1/icons/races/creature-types/dragon.png"},"Xtabay":{"name":"Xtabay","img":"systems/pf1/icons/skills/nature_06.jpg","token":"systems/pf1/icons/skills/nature_06.jpg"},"Yzobu":{"name":"Yzobu","img":"modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/yzobu.webp","token":"modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/yzobu.webp"},"Zhen Worm":{"name":"Ver zhen","img":"systems/pf1/icons/skills/green_05.jpg","token":"systems/pf1/icons/skills/green_05.jpg"},"Zhyen":{"name":"Zhyen","img":"systems/pf1/icons/skills/yellow_40.jpg","token":"systems/pf1/icons/skills/yellow_40.jpg"},"Zombie Wolf":{"name":"Loup zombi","img":"systems/pf1/icons/skills/affliction_07.jpg","token":"systems/pf1/icons/skills/affliction_07.jpg"},"Zoog":{"name":"Zoog","img":"systems/pf1/icons/skills/green_13.jpg","token":"systems/pf1/icons/skills/green_13.jpg"}}}
+{
+  "label": "Bestiaire 00+",
+  "mapping": {
+    "img": {
+      "path": "img",
+      "converter": "pf2TokensBestiaries"
+    },
+    "token": {
+      "path": "prototypeToken.texture.src",
+      "converter": "pf2TokensBestiaries"
+    }
+  },
+  "entries": {
+    "Aasimar": {
+      "name": "Aasimar",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/aasimar-redeemer.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/aasimar-redeemer.webp"
+    },
+    "Akaname": {
+      "name": "Akaname",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Akata": {
+      "name": "Akata",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/akata.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/akata.webp"
+    },
+    "Almiraj": {
+      "name": "Almiraj",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Alpluachra": {
+      "name": "Alpluachre",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Amoeba Swarm": {
+      "name": "Nuée d'amibes",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-swarm.webp"
+    },
+    "Android": {
+      "name": "Androïde",
+      "img": "systems/pf1/icons/races/android.png",
+      "token": "systems/pf1/icons/races/android.png"
+    },
+    "Animate Hair": {
+      "name": "Chevelure animée",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Antelope": {
+      "name": "Antilope",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Anunnaki": {
+      "name": "Anunnaki",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Aphorite": {
+      "name": "Aphorite",
+      "img": "systems/pf1/icons/races/aphorite.png",
+      "token": "systems/pf1/icons/races/aphorite.png"
+    },
+    "Arachnid Robot": {
+      "name": "Robot arachnide",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Archaeopteryx": {
+      "name": "Archéoptéryx",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Arctic Hare": {
+      "name": "Lièvre arctique",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Arctic Tern": {
+      "name": "Sterne arctique",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Armadillo": {
+      "name": "Tatou",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Astomoi": {
+      "name": "Astomoï",
+      "img": "systems/pf1/icons/races/fetchling.png",
+      "token": "systems/pf1/icons/races/fetchling.png"
+    },
+    "Atomie": {
+      "name": "Atomie",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Baboon": {
+      "name": "Babouin",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Bacallia": {
+      "name": "Bacallia",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Badger": {
+      "name": "Blaireau",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/badger.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/badger.webp"
+    },
+    "Bat": {
+      "name": "Chauve-souris",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Bathysphere": {
+      "name": "Méduse bathysphère",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Beheaded": {
+      "name": "Décapité",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Biloko": {
+      "name": "Biloko",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Black Spot": {
+      "name": "Tâche noire",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Blackwisp Egret": {
+      "name": "Aigrette noirfollet",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Blue-Ringed Octopus": {
+      "name": "Pieuvre à anneaux bleus",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/blue-ringed-octopus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/blue-ringed-octopus.webp"
+    },
+    "Bogwiggle": {
+      "name": "Bourbgigoteur (bourbiérin)",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Boilborn": {
+      "name": "Bulle du chaudron",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Brain Mole": {
+      "name": "Taupe cérébrale",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Bramblelash": {
+      "name": "Fouetteroncier",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Brownie": {
+      "name": "Lutin",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/brownie.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/brownie.webp"
+    },
+    "Bugbear Echohusk": {
+      "name": "Gobelours écho écorché",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Bulabar": {
+      "name": "Bulabar",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Butterfly/Moth": {
+      "name": "Papillon / Papillon de nuit",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Caligni": {
+      "name": "Caligni",
+      "img": "systems/pf1/icons/races/half-elf.png",
+      "token": "systems/pf1/icons/races/half-elf.png"
+    },
+    "Camel": {
+      "name": "Chameau",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/camel.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/camel.webp"
+    },
+    "Carbuncle": {
+      "name": "Escarboucle",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/carbuncle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/carbuncle.webp"
+    },
+    "Carrionstorm": {
+      "name": "Nuée de charognes",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Cat": {
+      "name": "Chat",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Catfolk": {
+      "name": "Homme-félin",
+      "img": "systems/pf1/icons/races/catfolk.png",
+      "token": "systems/pf1/icons/races/catfolk.png"
+    },
+    "Cave Scorpion": {
+      "name": "Scorpion des cavernes",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cave-scorpion.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cave-scorpion.webp"
+    },
+    "Celedon": {
+      "name": "Célédon",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Changeling": {
+      "name": "Changelin",
+      "img": "systems/pf1/icons/races/changeling.png",
+      "token": "systems/pf1/icons/races/changeling.png"
+    },
+    "Chicken": {
+      "name": "Poulet",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Chon Chon": {
+      "name": "Chon chon",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Clawbat": {
+      "name": "Griffe volante",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Clockwork Songbird": {
+      "name": "Passereau mécanique",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Clockwork Spy": {
+      "name": "Espion mécanique",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/constructed/mechanical/clockwork-spy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/mechanical/clockwork-spy.webp"
+    },
+    "Cockroach": {
+      "name": "Cafard",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Coffin Anemone": {
+      "name": "Anémone cercueil",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Common Eurypterid": {
+      "name": "Euryptéridé commun",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/common-eurypterid.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/common-eurypterid.webp"
+    },
+    "Compsognathus": {
+      "name": "Compsognathus",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/compsognathus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/compsognathus.webp"
+    },
+    "Coral Capuchin": {
+      "name": "Capucin corail",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/coral-capuchin.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/coral-capuchin.webp"
+    },
+    "Crawling Hand": {
+      "name": "Main rampante",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/crawling-hand.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/crawling-hand.webp"
+    },
+    "Creeper Ivy": {
+      "name": "Lierre grimpant",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Cytillesh Zombie": {
+      "name": "Zombi cytillesh",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Dallo": {
+      "name": "Dallo",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dark Dancer": {
+      "name": "Danseur obscur",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Darkmantle": {
+      "name": "Mante obscure",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Death’s Head Jellyfish": {
+      "name": "Méduse à tête de mort",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Deep One": {
+      "name": "Profond",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Deep One Hybrid": {
+      "name": "Profond, hybride",
+      "img": "systems/pf1/icons/races/creature-types/construct.png",
+      "token": "systems/pf1/icons/races/creature-types/construct.png"
+    },
+    "Dhampir": {
+      "name": "Dhampir",
+      "img": "systems/pf1/icons/races/dhampir.png",
+      "token": "systems/pf1/icons/races/dhampir.png"
+    },
+    "Dimorphodon": {
+      "name": "Dimorphodon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dire Corby": {
+      "name": "Corbie sanguinaire",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Dire Rat": {
+      "name": "Rat sanguinaire",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/rat-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/rat-giant.webp"
+    },
+    "Dodo": {
+      "name": "Dodo",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dog": {
+      "name": "Chien",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dolphin": {
+      "name": "Dauphin",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Donkey Rat": {
+      "name": "Rat-âne",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dossenus": {
+      "name": "Dossenus",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Drain Spider": {
+      "name": "Araignée des égouts",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Drochtac": {
+      "name": "Drochtac",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Drow": {
+      "name": "Drow",
+      "img": "systems/pf1/icons/races/drow.png",
+      "token": "systems/pf1/icons/races/drow.png"
+    },
+    "Drow Scout": {
+      "name": "Drow, éclaireur",
+      "img": "systems/pf1/icons/races/drow.png",
+      "token": "systems/pf1/icons/races/drow.png"
+    },
+    "Duergar": {
+      "name": "Duergar",
+      "img": "systems/pf1/icons/races/android.png",
+      "token": "systems/pf1/icons/races/android.png"
+    },
+    "Duergar Anvil": {
+      "name": "Duergar, enclume",
+      "img": "systems/pf1/icons/races/android.png",
+      "token": "systems/pf1/icons/races/android.png"
+    },
+    "Duergar Bombardier": {
+      "name": "Duergar, bombardier",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-bombardier.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/duergar-bombardier.webp"
+    },
+    "Duergar Sergeant": {
+      "name": "Duergar, sergent",
+      "img": "systems/pf1/icons/races/android.png",
+      "token": "systems/pf1/icons/races/android.png"
+    },
+    "Duergar Sharpshooter": {
+      "name": "Duergar, tireur d’élite",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/duergar-sharpshooter.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/darklands/duergar-sharpshooter.webp"
+    },
+    "Duergar Slaver": {
+      "name": "Duergar, esclavagiste",
+      "img": "systems/pf1/icons/races/android.png",
+      "token": "systems/pf1/icons/races/android.png"
+    },
+    "Duskwalker": {
+      "name": "Marcheurs ténébreux",
+      "img": "systems/pf1/icons/races/creature-types/outsider.png",
+      "token": "systems/pf1/icons/races/creature-types/outsider.png"
+    },
+    "Dwarf Caiman": {
+      "name": "Caïman nain",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Dweomer Cap": {
+      "name": "Chapeau enchanté",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Eagle": {
+      "name": "Aigle",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/eagle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/eagle.webp"
+    },
+    "Eaisge": {
+      "name": "Eaisge",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Echeneis": {
+      "name": "Écheneis",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Ectoplasmic Human": {
+      "name": "Humain ectoplasmique",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Elk": {
+      "name": "Élan",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Etiainen": {
+      "name": "Étiainen",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Exoskeleton Giant Cockroach": {
+      "name": "Exosquelette cafard géant",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Faerie Mount": {
+      "name": "Monture féérique",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Faun": {
+      "name": "Faune",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Festrog": {
+      "name": "Festrog",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/festrog.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/festrog.webp"
+    },
+    "Fetchling": {
+      "name": "Fetchelin",
+      "img": "systems/pf1/icons/races/fetchling.png",
+      "token": "systems/pf1/icons/races/fetchling.png"
+    },
+    "Fire Beetle": {
+      "name": "Punaise de feu",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Fire Salamander": {
+      "name": "Salamandre de feu",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Flaming Skull": {
+      "name": "Crâne brûlant",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/skeletal/flaming-skull.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/skeletal/flaming-skull.webp"
+    },
+    "Fleshdreg": {
+      "name": "Charognier",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Flowering Lattice": {
+      "name": "Treillage florissant",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Flumph": {
+      "name": "Flumph",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/flumph.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/flumph.webp"
+    },
+    "Flying Fox": {
+      "name": "Roussette",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Flying Squirrel": {
+      "name": "Écureuil volant",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Formian Worker": {
+      "name": "Ouvrier formien",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Four-Armed Mudra Skeleton": {
+      "name": "Squelette de mudra à quatre bras",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Fox": {
+      "name": "Renard",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/red-fox.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/red-fox.webp"
+    },
+    "Frost Fir": {
+      "name": "Sapin du froid",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Fuath": {
+      "name": "Fuath",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/fuath.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/fuath.webp"
+    },
+    "Ganzi": {
+      "name": "Ganzi",
+      "img": "systems/pf1/icons/races/tiefling.png",
+      "token": "systems/pf1/icons/races/tiefling.png"
+    },
+    "Gar": {
+      "name": "Gar",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Gathlain": {
+      "name": "Gathelain",
+      "img": "systems/pf1/icons/spells/vines-acid-1.jpg",
+      "token": "systems/pf1/icons/spells/vines-acid-1.jpg"
+    },
+    "Ghoran": {
+      "name": "Ghoran",
+      "img": "systems/pf1/icons/races/creature-types/plant.png",
+      "token": "systems/pf1/icons/races/creature-types/plant.png"
+    },
+    "Ghost Scorpion": {
+      "name": "Scorpion fantomatique",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Ghoul": {
+      "name": "Goule",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/ghoul.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/ghoul.webp"
+    },
+    "Ghoul Hound": {
+      "name": "Molosse goule",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Giant Amoeba": {
+      "name": "Amibe géante",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/ooze/amoeba-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/ooze/amoeba-giant.webp"
+    },
+    "Giant Bee": {
+      "name": "Abeille géante",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Botfly": {
+      "name": "Gastrophile géant",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Centipede": {
+      "name": "Mille-pattes géant",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/centipede-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/centipede-giant.webp"
+    },
+    "Giant Cicada": {
+      "name": "Cigale génate",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Cockroach": {
+      "name": "Cafard géant",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/cockroach-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp"
+    },
+    "Giant Crab Spider": {
+      "name": "Araignée-crabe géante",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Flea": {
+      "name": "Puce géante",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Frog": {
+      "name": "Grenouille géante",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/amphibian/frog-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/amphibian/frog-giant.webp"
+    },
+    "Giant Isopod": {
+      "name": "Isopode géant",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Raven": {
+      "name": "Corbeau géant",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Giant Solifugid": {
+      "name": "Solifuge géant",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/solifugid-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/solifugid-giant.webp"
+    },
+    "Giant Spider": {
+      "name": "Araignée géante",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Tardigrade": {
+      "name": "Tardigrade géant",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Tick": {
+      "name": "Tique géante",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/tick-giant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/tick-giant.webp"
+    },
+    "Giant Tortoise": {
+      "name": "Tortue géante",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Giant Water Strider": {
+      "name": "Hydromètre géant",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Giant Weasel": {
+      "name": "Belette géante",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Gillman": {
+      "name": "Aquatique",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Gishvit": {
+      "name": "Gishvit",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Gluttongrass": {
+      "name": "Herbegloutonne",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Gnoll": {
+      "name": "Gnoll",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/gnoll-sergeant.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/gnoll-sergeant.webp"
+    },
+    "Goat": {
+      "name": "Chèvre",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Goblin": {
+      "name": "Gobelin",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-warrior.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-warrior.webp"
+    },
+    "Goblin Dog": {
+      "name": "Chien gobelin",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-dog.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-dog.webp"
+    },
+    "Goblin Outrider": {
+      "name": "Gobelin, pionnier",
+      "img": "systems/pf1/icons/races/goblin.png",
+      "token": "systems/pf1/icons/races/goblin.png"
+    },
+    "Goblin Snake": {
+      "name": "Serpent gobelin",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Goblin Sneak": {
+      "name": "Gobelin vicieux",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/goblin-commando.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/goblin-commando.webp"
+    },
+    "Gourd Leshy": {
+      "name": "Léchi, calebasse",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/gourd-leshy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/gourd-leshy.webp"
+    },
+    "Great Horned Owl": {
+      "name": "Grand-duc",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Greensting Scorpion": {
+      "name": "Scorpion dard-vert",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Grig": {
+      "name": "Grig",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/fairy/grig.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/fairy/grig.webp"
+    },
+    "Grimple": {
+      "name": "Tristefripe",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/grimple.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/grimple.webp"
+    },
+    "Grindylow": {
+      "name": "Grindylow",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/humanoid/grindylow.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/humanoid/grindylow.webp"
+    },
+    "Grioth": {
+      "name": "Grioth",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Grippli": {
+      "name": "Grippli",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/grippli-scout.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/grippli-scout.webp"
+    },
+    "Gryph": {
+      "name": "Gryph",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Haniver": {
+      "name": "Haniver",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/haniver.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/haniver.webp"
+    },
+    "Hawk": {
+      "name": "Faucon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Hedgehog": {
+      "name": "Hérisson",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Hippocampus": {
+      "name": "Hippocampe",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/hippocampus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/hippocampus.webp"
+    },
+    "Hobgoblin": {
+      "name": "Hobgobelin",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/goblinoid/hobgoblin-soldier.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/goblinoid/hobgoblin-soldier.webp"
+    },
+    "Hobkins": {
+      "name": "Hobkins",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Hollow Helm": {
+      "name": "Heaume vide",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Homunculus": {
+      "name": "Homoncule",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/constructed/magical/homunculus.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/constructed/magical/homunculus.webp"
+    },
+    "Hook Fly Swarm": {
+      "name": "Nuée de mouches crochet",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Horn Caterpillar": {
+      "name": "Chenille à corne",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Horned Lizard": {
+      "name": "Lézard cornu",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Horse": {
+      "name": "Cheval",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "House Centipede": {
+      "name": "Mille-pattes domestique",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Human Skeleton": {
+      "name": "Squelette humain",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Human Zombie": {
+      "name": "Zombi humain",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/zombie-brute.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/zombie-brute.webp"
+    },
+    "Hunter Urchin": {
+      "name": "Oursin chasseur",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Hyena": {
+      "name": "Hyène",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/hyena.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/hyena.webp"
+    },
+    "Ifrit": {
+      "name": "Ifrit",
+      "img": "systems/pf1/icons/races/ifrit.png",
+      "token": "systems/pf1/icons/races/ifrit.png"
+    },
+    "Ioun Wyrd": {
+      "name": "Wyrd Ioun",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Isitoq": {
+      "name": "Isitoq",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Jack-o'-Lantern": {
+      "name": "Tête de citrouille",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Jackal": {
+      "name": "Chacal",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Jerboa": {
+      "name": "Gerboise",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Jigsaw Shark": {
+      "name": "Requin-puzzle",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Jinkin": {
+      "name": "Jinkin",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/jinkin.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/jinkin.webp"
+    },
+    "Kakapo": {
+      "name": "Kakapo",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Kangaroo": {
+      "name": "Kangourou",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/kangaroo.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/kangaroo.webp"
+    },
+    "Kasatha": {
+      "name": "Kasatha",
+      "img": "systems/pf1/icons/races/orc.png",
+      "token": "systems/pf1/icons/races/orc.png"
+    },
+    "Katroome": {
+      "name": "Katroome",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Keulia": {
+      "name": "Keulia",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "King Crab": {
+      "name": "Crabe Royal",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Kitsune": {
+      "name": "Kitsune",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kitsune-trickster.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kitsune-trickster.webp"
+    },
+    "Koala": {
+      "name": "Koala",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Kobold": {
+      "name": "Kobold",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-warrior.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-warrior.webp"
+    },
+    "Kobold Bomber": {
+      "name": "Kobold, bombardier",
+      "img": "systems/pf1/icons/races/kobold.png",
+      "token": "systems/pf1/icons/races/kobold.png"
+    },
+    "Kobold Monster Wrangler": {
+      "name": "Kobold, palefrenier des monstres",
+      "img": "systems/pf1/icons/races/kobold.png",
+      "token": "systems/pf1/icons/races/kobold.png"
+    },
+    "Kobold Scalecaster": {
+      "name": "Kobold, mage des écailles",
+      "img": "systems/pf1/icons/races/kobold.png",
+      "token": "systems/pf1/icons/races/kobold.png"
+    },
+    "Kobold Sniper": {
+      "name": "Kobold, sniper",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/kobold/kobold-scout.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/kobold/kobold-scout.webp"
+    },
+    "Krenshar": {
+      "name": "Krenshar",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Kuru": {
+      "name": "Kuru",
+      "img": "systems/pf1/icons/skills/blood_07.jpg",
+      "token": "systems/pf1/icons/skills/blood_07.jpg"
+    },
+    "Lamprey": {
+      "name": "Lamproie",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Larva": {
+      "name": "Larve",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/planar/petitioner/larva.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/planar/petitioner/larva.webp"
+    },
+    "Larval Chuul": {
+      "name": "Chuul Larvaire",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Lashunta": {
+      "name": "Lashunta",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Leaf Leshy": {
+      "name": "Léchi de feuilles",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/leaf-leshy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/leaf-leshy.webp"
+    },
+    "Leaf Ray": {
+      "name": "Raie manta feuillue",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Lemming": {
+      "name": "Lemming",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Lemure": {
+      "name": "Lémure",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fiendish/devil/lemure.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/devil/lemure.webp"
+    },
+    "Leopard Slug": {
+      "name": "Limace léopard",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Lich Newt": {
+      "name": "Triton liche",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Lizard": {
+      "name": "Lézard",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Lizardfolk": {
+      "name": "Homme-lézard",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/lizardfolk-defender.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/lizardfolk-defender.webp"
+    },
+    "Llama": {
+      "name": "Lama",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Locathah": {
+      "name": "Locathah",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Manta Ray": {
+      "name": "Raie manta",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/manta-ray.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/manta-ray.webp"
+    },
+    "Margay Cat": {
+      "name": "Margay",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Mechanical Efreeti": {
+      "name": "Ifrit mécanique",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Meerkat": {
+      "name": "Suricate",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Melancholic Ooze Swarm": {
+      "name": "Nuée de vase mélancolique",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Merfolk": {
+      "name": "Homme-poisson",
+      "img": "systems/pf1/icons/races/undine.png",
+      "token": "systems/pf1/icons/races/undine.png"
+    },
+    "Mite": {
+      "name": "Mite",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Mockingfey": {
+      "name": "Fée moqueuse",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Mole": {
+      "name": "Taupe",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Monaciello": {
+      "name": "Monaciello",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Mongrelman": {
+      "name": "Bâtard",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Monkey": {
+      "name": "Singe",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/monkey.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/monkey.webp"
+    },
+    "Monkey Goblin": {
+      "name": "Gobelin singe",
+      "img": "systems/pf1/icons/skills/affliction_24.jpg",
+      "token": "systems/pf1/icons/skills/affliction_24.jpg"
+    },
+    "Muckdweller": {
+      "name": "Lézard de vase",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Mummified Baboon": {
+      "name": " Babouin momifié",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Munavri": {
+      "name": "Munavri",
+      "img": "systems/pf1/icons/spells/evil-eye-eerie-1.jpg",
+      "token": "systems/pf1/icons/spells/evil-eye-eerie-1.jpg"
+    },
+    "Nagaji": {
+      "name": "Nagaji",
+      "img": "systems/pf1/icons/races/vishkanya.png",
+      "token": "systems/pf1/icons/races/vishkanya.png"
+    },
+    "Naiad": {
+      "name": "Naïade",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/nymph/naiad.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/nymph/naiad.webp"
+    },
+    "Ningyo": {
+      "name": "Ningyo",
+      "img": "systems/pf1/icons/skills/blue_32.jpg",
+      "token": "systems/pf1/icons/skills/blue_32.jpg"
+    },
+    "Nixie": {
+      "name": "Nixe",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/nixie.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/nixie.webp"
+    },
+    "Nukkefeen": {
+      "name": "Nukkefeen",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Nuno": {
+      "name": "Nuno",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Nupperibo": {
+      "name": "Nupperibo",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Nymph Water Strider": {
+      "name": "Hydromètre nymphe",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Ochre Eurypterid": {
+      "name": "Euryptéride Ocre",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Octopus": {
+      "name": "Pieuvre",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Onwu Azu": {
+      "name": "Onwu Azu",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Orang-pendak": {
+      "name": "Orang-pendak",
+      "img": "systems/pf1/icons/skills/blue_26.jpg",
+      "token": "systems/pf1/icons/skills/blue_26.jpg"
+    },
+    "Orc": {
+      "name": "Orque",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/orc-warrior.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/orc-warrior.webp"
+    },
+    "Oread": {
+      "name": "Oréade",
+      "img": "systems/pf1/icons/races/oread.png",
+      "token": "systems/pf1/icons/races/oread.png"
+    },
+    "Ostovite": {
+      "name": "Ostovite",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fiendish/beast/ostovite.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fiendish/beast/ostovite.webp"
+    },
+    "Ostrich": {
+      "name": "Autruche",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Otter": {
+      "name": "Loutre",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Owl": {
+      "name": "Chouette",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Patchwork Insect Swarm": {
+      "name": "Nuée d'instectes protéiformes",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Peacock": {
+      "name": "Paon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Peafowl": {
+      "name": "Paon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Penguin": {
+      "name": "Manchot",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Petitioner": {
+      "name": "Pétitionnaire",
+      "img": "systems/pf1/icons/races/human.jpg",
+      "token": "systems/pf1/icons/races/human.jpg"
+    },
+    "Petrifern": {
+      "name": "Petrifern",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Petromin": {
+      "name": "Petromin",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Phlegmatic Ooze Swarm": {
+      "name": "Nuée de vase flegmatique",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Pickled Punk": {
+      "name": "Foetus en bocal",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Pig": {
+      "name": "Cochon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Platypus": {
+      "name": "Ornithorynque",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Poison Frog": {
+      "name": "Grenouille venimeuse",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Pony": {
+      "name": "Poney",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Popoto": {
+      "name": "Popoto",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Popoto Dolphin": {
+      "name": "Dauphin Popoto",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Poppet, Small": {
+      "name": "Petit pantin",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Poppet, Tiny": {
+      "name": "Très petit pantin",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Porcupine": {
+      "name": "Porc-épic",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Pseudodragon": {
+      "name": "Pseudo-dragon",
+      "img": "systems/pf1/icons/skills/fire_05.jpg",
+      "token": "systems/pf1/icons/skills/fire_05.jpg"
+    },
+    "Ptarmigan": {
+      "name": "Lagopède",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Pufferfish": {
+      "name": "Poisson-globe",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/pufferfish.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/pufferfish.webp"
+    },
+    "Puffin": {
+      "name": "Macareux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Pugwampi": {
+      "name": "Pugwampi",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/pugwampi.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/pugwampi.webp"
+    },
+    "Pyrausta": {
+      "name": "Pyrauste",
+      "img": "systems/pf1/icons/skills/fire_05.jpg",
+      "token": "systems/pf1/icons/skills/fire_05.jpg"
+    },
+    "Quillcat": {
+      "name": "Félin épineux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Rabbit": {
+      "name": "Lapin",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Raccoon": {
+      "name": "Raton laveur",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Ram": {
+      "name": "Bélier",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Ramidreju": {
+      "name": "Ramidreju",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Rat": {
+      "name": "Rat",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Ratfolk": {
+      "name": "Homme-rat",
+      "img": "systems/pf1/icons/races/ratfolk.png",
+      "token": "systems/pf1/icons/races/ratfolk.png"
+    },
+    "Ratfolk Tinkerer": {
+      "name": "Homme-rat, rétameur",
+      "img": "systems/pf1/icons/races/ratfolk.png",
+      "token": "systems/pf1/icons/races/ratfolk.png"
+    },
+    "Raven": {
+      "name": "Corbeau",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/raven.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/raven.webp"
+    },
+    "Ravenous Tumbleweed": {
+      "name": "Herbe déracinée vorace",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Razor Fern": {
+      "name": "Fougère rasoir",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Reborn Samsaran": {
+      "name": "Samsaran réincarné",
+      "img": "systems/pf1/icons/feats/blinding-critical.jpg",
+      "token": "systems/pf1/icons/feats/blinding-critical.jpg"
+    },
+    "Red Panda": {
+      "name": "Petit panda",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Reefclaw": {
+      "name": "Griffe du récif",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/aberrant/monstrous/reefclaw.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/aberrant/monstrous/reefclaw.webp"
+    },
+    "Reptoid": {
+      "name": "Reptoïde",
+      "img": "systems/pf1/icons/feats/gorgons-fist.jpg",
+      "token": "systems/pf1/icons/feats/gorgons-fist.jpg"
+    },
+    "Rhamphorhynchus": {
+      "name": "Rhamphorhynchus",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Riding Dog": {
+      "name": "Chien de selle",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/riding-dog.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/riding-dog.webp"
+    },
+    "Ringhorn": {
+      "name": "Cerf cornannelé",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Rock Tuatara": {
+      "name": "Tuatara rocheux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Rougarou": {
+      "name": "Rougarou",
+      "img": "systems/pf1/icons/races/creature-types/animal.png",
+      "token": "systems/pf1/icons/races/creature-types/animal.png"
+    },
+    "Rune Guardian": {
+      "name": " Gardien des runes",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Sagari": {
+      "name": "Sagari",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Samsaran": {
+      "name": "Samsaran",
+      "img": "systems/pf1/icons/feats/blinding-critical.jpg",
+      "token": "systems/pf1/icons/feats/blinding-critical.jpg"
+    },
+    "Sanguine Ooze Swarm": {
+      "name": "Nuée de vase sanguine",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Sawleg Locust": {
+      "name": "Sauterelle patte-de-scie",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Scarlet Spider": {
+      "name": "Araignée écarlate",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Sea Crawler": {
+      "name": "Rampant des mers",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Sea Snake": {
+      "name": "Serpent d'eau",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/sea-snake.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/sea-snake.webp"
+    },
+    "Seal": {
+      "name": "Phoque",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Severed Head": {
+      "name": "Tête coupée",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/undead/severed-head.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/undead/severed-head.webp"
+    },
+    "Shabti": {
+      "name": "Shabti",
+      "img": "systems/pf1/icons/skills/light_07.jpg",
+      "token": "systems/pf1/icons/skills/light_07.jpg"
+    },
+    "Shimmerwing Dragonfly": {
+      "name": "Libellule ailescintillante",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Skapraun": {
+      "name": "Skapraun",
+      "img": "systems/pf1/icons/skills/green_10.jpg",
+      "token": "systems/pf1/icons/skills/green_10.jpg"
+    },
+    "Skeletal Mount": {
+      "name": "Monture squelettique",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Skincrawler": {
+      "name": "Peau rampante",
+      "img": "systems/pf1/icons/skills/green_30.jpg",
+      "token": "systems/pf1/icons/skills/green_30.jpg"
+    },
+    "Skinwalker": {
+      "name": "Changepeau",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Skittergoat": {
+      "name": "Skittergoat",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Skulk": {
+      "name": "Skulk",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/humanoid/skulk.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/humanoid/skulk.webp"
+    },
+    "Skull Swarm": {
+      "name": "Nuée de crânes",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Skunk": {
+      "name": "Moufette",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/skunk.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/skunk.webp"
+    },
+    "Skvader": {
+      "name": "Skvader",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Sloth": {
+      "name": "Paresseux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Small Aether Elemental": {
+      "name": "Élémentaire d’Aether (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Air Elemental": {
+      "name": "Élémentaire de l’Air (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Earth Elemental": {
+      "name": "Élémentaire de Terre (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Fire Elemental": {
+      "name": "Élémentaire du Feu (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Ice Elemental": {
+      "name": "Élémentaire de la Glace (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Lightning Elemental": {
+      "name": "Élémentaire de l’Éclair (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Magma Elemental": {
+      "name": "Élémentaire du Magma (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Mud Elemental": {
+      "name": "Élémentaire de la Boue (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Small Water Elemental": {
+      "name": "Élémentaire de l’Eau (Petit)",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Snapping Turtle": {
+      "name": "Tortue happante",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/snapping-turtle.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/snapping-turtle.webp"
+    },
+    "Snark": {
+      "name": "Snark",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Sootwing Bat": {
+      "name": "Chauve-souris aile de suie",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Sorico": {
+      "name": "Sorico",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Spider Swarm": {
+      "name": "Nuée d'araignées",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/invertebrate/spider-swarm.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/spider-swarm.webp"
+    },
+    "Spiny Starfish": {
+      "name": "Étoile de mer épineuse",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Sprite": {
+      "name": "Esprit follet",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/fairy/sprite.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/fairy/sprite.webp"
+    },
+    "Squid": {
+      "name": "Calmar",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Squirrel": {
+      "name": "Écureuil",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Stag": {
+      "name": "Cerf",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Stingray": {
+      "name": "Raie à aiguillon",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/stingray.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/stingray.webp"
+    },
+    "Stirge": {
+      "name": "Strige",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Strix": {
+      "name": "Strix",
+      "img": "systems/pf1/icons/races/creature-types/outsider.png",
+      "token": "systems/pf1/icons/races/creature-types/outsider.png"
+    },
+    "Suli": {
+      "name": "Suli",
+      "img": "systems/pf1/icons/races/creature-types/elemental.png",
+      "token": "systems/pf1/icons/races/creature-types/elemental.png"
+    },
+    "Sunbaked Zombie": {
+      "name": "Zombie grillé",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Sunflower Leshy": {
+      "name": "Léchi tournesol",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/plant/leshy/sunflower-leshy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/plant/leshy/sunflower-leshy.webp"
+    },
+    "Suture Vine": {
+      "name": "Liane barbelée",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Svirfneblin": {
+      "name": "Svirfneblin",
+      "img": "systems/pf1/icons/races/gnome.png",
+      "token": "systems/pf1/icons/races/gnome.png"
+    },
+    "Switchback Jackal": {
+      "name": "Chacal rebrousseux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Sylph": {
+      "name": "Sylphe",
+      "img": "systems/pf1/icons/races/sylph.png",
+      "token": "systems/pf1/icons/races/sylph.png"
+    },
+    "Syrinx": {
+      "name": "Syrinx",
+      "img": "systems/pf1/icons/skills/red_26.jpg",
+      "token": "systems/pf1/icons/skills/red_26.jpg"
+    },
+    "Tarsier": {
+      "name": "Tarsier",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tauhoti": {
+      "name": "Tauhoti",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tengu": {
+      "name": "Tengu",
+      "img": "systems/pf1/icons/races/tengu.png",
+      "token": "systems/pf1/icons/races/tengu.png"
+    },
+    "Thrush": {
+      "name": "Grive",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Thylacine": {
+      "name": "Thylacine",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tiefling": {
+      "name": "Tieffelin",
+      "img": "systems/pf1/icons/races/tiefling.png",
+      "token": "systems/pf1/icons/races/tiefling.png"
+    },
+    "Tiger Fish": {
+      "name": "Poisson-tigre",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Toad": {
+      "name": "Crapaud",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tooth Fairy": {
+      "name": "Lutin des dents",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/fairy/tooth-fairy.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/fairy/tooth-fairy.webp"
+    },
+    "Torble": {
+      "name": "Torble",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Triaxian": {
+      "name": "Triaxien",
+      "img": "systems/pf1/icons/skills/blue_37.jpg",
+      "token": "systems/pf1/icons/skills/blue_37.jpg"
+    },
+    "Trilobite": {
+      "name": "Trilobite",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/trilobite.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/trilobite.webp"
+    },
+    "Troglodyte": {
+      "name": "Troglodyte",
+      "img": "systems/pf1/icons/skills/blue_35.jpg",
+      "token": "systems/pf1/icons/skills/blue_35.jpg"
+    },
+    "Troodon": {
+      "name": "Troodon",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Trumpeter Swan": {
+      "name": "Cygne trompette",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tuatara": {
+      "name": "Tuatara",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Tullimonstrum": {
+      "name": "Tullimonstrum",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Turtle": {
+      "name": "Tortue de mer",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Undead Ningyo": {
+      "name": "Ningyo mort-vivant",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Undine": {
+      "name": "Ondin",
+      "img": "systems/pf1/icons/races/undine.png",
+      "token": "systems/pf1/icons/races/undine.png"
+    },
+    "Vampire Squid": {
+      "name": "Calmar vampire",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/aquatic/vampire-squid.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/aquatic/vampire-squid.webp"
+    },
+    "Vanara": {
+      "name": "Vanara",
+      "img": "systems/pf1/icons/races/vanara.png",
+      "token": "systems/pf1/icons/races/vanara.png"
+    },
+    "Varisian Hagfish": {
+      "name": "Myxine varisienne",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Vegepygmy": {
+      "name": "Végépygmée",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Venomous Snake": {
+      "name": "Serpent venimeux",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Vexgit": {
+      "name": "Vexgit",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/fey/gremlin/vexgit.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/fey/gremlin/vexgit.webp"
+    },
+    "Viper": {
+      "name": "Vipère",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/viper.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/viper.webp"
+    },
+    "Vishkanya": {
+      "name": "Vishkanya",
+      "img": "systems/pf1/icons/races/vishkanya.png",
+      "token": "systems/pf1/icons/races/vishkanya.png"
+    },
+    "Vulture": {
+      "name": "Vautour",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Wallaby": {
+      "name": "Wallaby",
+      "img": "systems/pf1/icons/skills/blue_29.jpg",
+      "token": "systems/pf1/icons/skills/blue_29.jpg"
+    },
+    "Water Strider Swarm": {
+      "name": "Nuée d'hydromètres",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Wayang": {
+      "name": "Wayang",
+      "img": "systems/pf1/icons/races/gnoll.png",
+      "token": "systems/pf1/icons/races/gnoll.png"
+    },
+    "Weasel": {
+      "name": "Belette",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/weasel.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/weasel.webp"
+    },
+    "Whisperfall Vulture": {
+      "name": "Vautour du murmure",
+      "img": "systems/pf1/icons/races/orc.png",
+      "token": "systems/pf1/icons/races/orc.png"
+    },
+    "Witchcrow": {
+      "name": "Corneille-sorcière",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Wizard's Shackle": {
+      "name": "Entrave du mage",
+      "img": "systems/pf1/icons/skills/yellow_25.jpg",
+      "token": "systems/pf1/icons/skills/yellow_25.jpg"
+    },
+    "Wolf": {
+      "name": "Loup",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/wolf.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/wolf.webp"
+    },
+    "Wolpertinger": {
+      "name": "Wolpertinger",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    },
+    "Wood": {
+      "name": "Idole en bois",
+      "img": "systems/pf1/icons/skills/mech_7.jpg",
+      "token": "systems/pf1/icons/skills/mech_7.jpg"
+    },
+    "Wyrwood": {
+      "name": "Virebois",
+      "img": "systems/pf1/icons/races/creature-types/construct.png",
+      "token": "systems/pf1/icons/races/creature-types/construct.png"
+    },
+    "Wyvaran": {
+      "name": "Wivaran",
+      "img": "systems/pf1/icons/races/creature-types/dragon.png",
+      "token": "systems/pf1/icons/races/creature-types/dragon.png"
+    },
+    "Xtabay": {
+      "name": "Xtabay",
+      "img": "systems/pf1/icons/skills/nature_06.jpg",
+      "token": "systems/pf1/icons/skills/nature_06.jpg"
+    },
+    "Yzobu": {
+      "name": "Yzobu",
+      "img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/yzobu.webp",
+      "token": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/yzobu.webp"
+    },
+    "Zhen Worm": {
+      "name": "Ver zhen",
+      "img": "systems/pf1/icons/skills/green_05.jpg",
+      "token": "systems/pf1/icons/skills/green_05.jpg"
+    },
+    "Zhyen": {
+      "name": "Zhyen",
+      "img": "systems/pf1/icons/skills/yellow_40.jpg",
+      "token": "systems/pf1/icons/skills/yellow_40.jpg"
+    },
+    "Zombie Wolf": {
+      "name": "Loup zombi",
+      "img": "systems/pf1/icons/skills/affliction_07.jpg",
+      "token": "systems/pf1/icons/skills/affliction_07.jpg"
+    },
+    "Zoog": {
+      "name": "Zoog",
+      "img": "systems/pf1/icons/skills/green_13.jpg",
+      "token": "systems/pf1/icons/skills/green_13.jpg"
+    }
+  }
+}
