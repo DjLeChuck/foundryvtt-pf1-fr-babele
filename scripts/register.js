@@ -37,6 +37,7 @@ Hooks.on('init', () => {
     'learnedAt': (value, translations) => converters.learnedAt(value, translations),
     'pf2TokensBestiaries': (value, translations) => converters.pf2TokensBestiaries(value, translations),
     'tableRollText': (value, translations) => converters.tableRollText(value, translations),
+    'simpleArray': (value, translations) => converters.simpleArray(value, translations),
   });
 
   if (game.settings.get('pf1-fr-babele', 'autoRegisterBabel')) {

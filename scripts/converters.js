@@ -101,6 +101,20 @@ class Converters {
 
     return value;
   }
+
+  simpleArray(value, translations) {
+    if (!value || !translations) {
+      return value;
+    }
+
+    const splitTranslations = translations.split(";");
+
+    value.forEach((type, index) => {
+      value[index] = splitTranslations[index];
+    });
+
+    return value;
+  }
 }
 
 export default new Converters();
