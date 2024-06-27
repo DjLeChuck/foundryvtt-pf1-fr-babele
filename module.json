@@ -12,8 +12,8 @@
   ],
   "version": "11.0.3",
   "compatibility": {
-    "minimum": "10",
-    "verified": "11",
+    "minimum": "11",
+    "verified": "11.235",
     "maximum": "11"
   },
   "esmodules": [
@@ -24,17 +24,15 @@
       {
         "id": "pf1",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "10.0",
+          "verified": "10.3"
+        }
       }
     ],
     "requires": [
       {
         "id": "babele",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "lib-wrapper",
         "type": "module",
         "compatibility": {}
       }
