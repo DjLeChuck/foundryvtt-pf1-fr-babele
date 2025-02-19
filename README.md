@@ -20,64 +20,6 @@ Vous aurez alors la dernière version et profiterez des mises à jour automatiqu
 Sinon, il est possible l'ajouter en utilisant le lien de son manifest :
 `https://raw.githubusercontent.com/DjLeChuck/foundryvtt-pf1-fr-babele/main/module.json`
 
-## État d'avancement
-
-Pour chaque fichier, nombre de termes existants dans le compendium, nombre de termes non traduits et nombre de termes
-déjà traduits.
-
-<!-- STATS - BEGIN -->
-| Pack | Nb. termes | Nb. non traduits | Nb. traduits |
-|---|---|---|---|
-| armors-and-shields | 64 | 0 | 64 |
-| bestiary-00 | 386 | 0 | 386 |
-| bestiary-02 | 452 | 0 | 452 |
-| bestiary-04 | 420 | 0 | 420 |
-| bestiary-06 | 392 | 0 | 392 |
-| bestiary-08 | 468 | 61 | 407 |
-| bestiary-11 | 426 | 116 | 310 |
-| bestiary-15 | 323 | 0 | 323 |
-| bestiary-20 | 156 | 0 | 156 |
-| class-abilities | 4363 | 2832 | 1531 |
-| classes | 51 | 0 | 51 |
-| commonbuffs | 26 | 0 | 26 |
-| conditions | 35 | 0 | 35 |
-| feats | 177 | 0 | 177 |
-| items | 736 | 405 | 331 |
-| monster-templates | 189 | 79 | 110 |
-| mythic-paths | 6 | 0 | 6 |
-| races | 79 | 0 | 79 |
-| racial-hd | 13 | 0 | 13 |
-| skills | 26 | 0 | 26 |
-| spells | 2944 | 857 | 2087 |
-| ultimate-equipment | 227 | 0 | 227 |
-| weapons-and-ammo | 491 | 110 | 381 |
-<!-- STATS - END -->
-
-## Comment contribuer ?
-
-À la base, le module était composé uniquement des traductions issues du module
-[Pathfinder 1 - Improvements for French](https://foundryvtt.com/packages/pf1-fr) ce qui fait qu'il y a énormément
-d'entrées qui ne sont pas traduites car il n'en existe pas de référencées sur le
-wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/).
-
-À présent, afin de faciliter la gestion des traductions, une interface web a été mise en place pour permettre à
-chacun de contribuer sans avoir à passer par GitHub tout en disposant d'une interface de saisie et de mise en forme
-bien plus agréable que les fichiers JSON de base !
-
-Ce site n'est accessible qu'aux personnes présentes sur le Discord [La Fonderie](https://discord.com/invite/pPSDNJk)
-(une connexion via Discord est nécessaire pour accéder à l'interface de traduction et une vérification est faîtes sur
-l'appartenance au serveur).
-
-Quand on va traduire, la première chose à faire est de regarder s'il existe une traduction sur
-[le wiki FR de Pathfinder](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.MainPage.ashx). Si une traduction est
-disponible, alors on peut l'utiliser sans-souci.
-
-S'il n'y en a pas, alors on doit traduire soi-même en respectant le lore de Pathfinder, donc en vérifiant si des termes
-spécifiques sont à utiliser ou non. Pour ces cas-là, il y a un bouton qui permet de traduire automatiquement le texte
-de description anglais vers le français **afin d'avoir une base de travail seulement**. La traduction automatique ne
-doit en aucun cas être laissée sans vérification, car le rendu sera forcément approximatif et n'aura pas gardé les
-potentielles mises en forme existantes.
-
 ### Ressources utiles :
 
 * [Glossaire VO / VF tenu par le wiki FR de Pathfinder](https://docs.google.com/spreadsheets/d/1MZ5Nz424T1CRSNi00Ky7jG-TrcKZeCYgqoClRjTfaXQ/edit#gid=660929381)
@@ -86,7 +28,7 @@ potentielles mises en forme existantes.
 
 ## Remerciements
 
-Merci à tous ceux qui ont travaillés sur le
+Merci à tous ceux qui ont travaillé sur le
 module [Pathfinder 1 - Improvements for French](https://foundryvtt.com/packages/pf1-fr)
 et, plus largement, sur le wiki [Pathfinder-Fr](https://www.pathfinder-fr.org/) car sans eux ce module ne pourrait
 exister.
