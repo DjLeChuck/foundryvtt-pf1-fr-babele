@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [12.0.0] - 2025-02-19
+
 ### Added
 
 - Traduction du dossier `Actors`
@@ -163,7 +165,9 @@ Happy New Year! 🎉
 
 - Initial translations files
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.1.0...HEAD
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/12.0.0...HEAD
+
+[12.0.0]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.1.0...12.0.0
 
 [11.1.0]: https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/compare/11.0.3...11.1.0
 
