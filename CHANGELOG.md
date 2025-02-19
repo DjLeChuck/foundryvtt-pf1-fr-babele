@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Traduction du dossier `Actors`
+
 ### Fixed
 
 - Correction du converter des sous-écoles
