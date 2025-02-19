@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Correction du converter des sous-écoles
+
 ## [11.1.0] - 2024-06-27
 
 ### Added

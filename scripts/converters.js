@@ -137,7 +137,11 @@ class Converters {
     ]);
 
     subSchoolMap.forEach((translation, original) => {
-      subschool = subschool.replace(original, translation);
+      if (Array.isArray(subschool)) {
+        subschool = subschool.map((s) => this.converter(s));
+      } else {
+        subschool = subschool.replace(original, translation);
+      }
     });
 
     return subschool;
