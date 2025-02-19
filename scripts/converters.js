@@ -14,19 +14,19 @@ class Converters {
       value[index].spellArea = data.spellArea;
       value[index].spellEffect = data.spellEffect;
 
-      if (value[index].duration?.value) {
+      if (data?.duration && value[index].duration?.value) {
         value[index].duration.value = data.duration;
       }
 
-      if (value[index].range?.value) {
+      if (data?.range && value[index].range?.value) {
         value[index].range.value = data.range;
       }
 
-      if (value[index].save?.description) {
+      if (data?.save && value[index].save?.description) {
         value[index].save.description = data.save;
       }
 
-      if (value[index].target?.value) {
+      if (data?.target && value[index].target?.value) {
         value[index].target.value = data.target;
       }
     });
