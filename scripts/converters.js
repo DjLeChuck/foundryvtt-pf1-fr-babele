@@ -8,6 +8,9 @@ class Converters {
 
     value.forEach((type, index) => {
       const data = translations[index];
+      if (!data) {
+        return value;
+      }
 
       value[index].effectNotes = data.effectNotes;
       value[index].name = data.name;

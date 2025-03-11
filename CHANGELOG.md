@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Correction du converter des actions
+
 ## [12.0.0] - 2025-02-19
 
 ### Added
